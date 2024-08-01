@@ -1,4 +1,4 @@
-# tp-recovery-archive
+# ThinkPad Recovery Media
 List of available IBM/Lenovo ThinkPad Recovery Media
 
 ### IBM ThinkPad A20
