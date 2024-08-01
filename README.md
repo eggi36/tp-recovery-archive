@@ -5,7 +5,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad S30
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| S30 | Windows 2000 Professional | Japanese | CD/DVD Image | 46P4410 | [Download](https://archive.org/details/TPT20DERestore) | Archive.org |  |
+| S30 | Windows 2000 Professional | Japanese | CD/DVD Image | 46P4410 | [Download](https://archive.org/details/s30-recovery-cd) | Archive.org |  |
 | S30 | Software Selections CD | Japanese | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 
 ### IBM ThinkPad T20
