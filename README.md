@@ -52,13 +52,6 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | A31/A31p | Windows XP Professional | English US | CD/DVD Image | 01R6024 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 | A31/A31p | Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 
-
-
-
-
-
-
-
 ### IBM ThinkPad S30
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -90,7 +83,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | T22 | Windows 98 Second Edition | French | CD/DVD Image | n.a. | [Download](https://archive.org/details/ibm-restore-t22-fr) | Archive.org | custom made from HDD partition |
 | T22 | Windows 98 Second Edition | English US | CD/DVD Image | unknown | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
-| T22 | Windows NT 4.0 Workstation & Windows 2000 Professional| English US | CD/DVD Image | 23P9175 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| T22 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | 23P9175 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 | T22 | Linux | English US | CD/DVD Image | unknown | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 
 ### IBM ThinkPad T23
@@ -142,3 +135,94 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T43/T43p (ATI Graphics) | Windows XP Professional | Finnish | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-t43-finnish) | Archive.org | Create Recovery Media ISOs
 | T43/R52 (Intel Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K8487 | [Download](https://archive.org/details/IBMThinkPadT41R52Restore) | Archive.org | 
 | T43/T43p (ATI Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K9211 | [Download](https://archive.org/details/T43WinXP) or [Download](https://archive.org/details/39K92633)| Archive.org |
+
+### IBM ThinkPad X20
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X20 | Windows 98 Second Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| X20 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| X20 | Windows NT 4.0 Workstation & Windows 2000 Professional | Japanese | CD/DVD Image | | [Download](https://archive.org/details/tp-x20-recovery-jp) | Archive.org | 
+| X20 | Software Selections CD | English US | CD/DVD Image |  | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| X20 | Software Selections CD | German | CD/DVD Image |  | [Download](https://archive.org/details/19K9245) | Archive.org | 
+| X20 | Software Selections CD | Japanese | CD/DVD Image |  | [Download](https://archive.org/details/tp-x20-recovery-jp) | Archive.org | 12P1230 |
+
+### IBM ThinkPad X21
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X21 | Windows 98 Second Edition | Japanese | CD/DVD Image | 27P1907 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+
+### IBM ThinkPad X23
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X23 | Windows XP Professional | English US | CD/DVD Image | 32P6115 | [Download](https://archive.org/details/32-p-6135-ibmx-23disc-1) | Archive.org | 
+
+### IBM ThinkPad X30
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X30 | Windows 2000 Professional | English US | CD/DVD Image | 01R6193 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| X30 | Windows XP Professional | English US | CD/DVD Image | 01R6196 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+
+### IBM ThinkPad X31
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X31 | Windows XP Professional | English US | CD/DVD Image | 24R8128 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| X31 | Windows XP Professional | German | CD/DVD Image | 39K7041 | [Download](https://archive.org/details/39K7041) | Archive.org | 2004-11
+| X31 | Windows XP Professional | German | HPA Image | | [Download](https://archive.org/details/TPX31HPADERestore) | Archive.org | 2003-10
+
+### IBM ThinkPad X32
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X32 | Windows XP Professional | German | CD/DVD Image | 39K8243 | [Download](https://archive.org/details/39K8243) | Archive.org |
+
+### IBM ThinkPad X40
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X40 | Windows XP Professional | English US | CD/DVD Image | 42J5662 | [Download](https://archive.org/details/thinkpad_x40_product_recovery) | Archive.org | 
+| X40 | Windows XP Professional | German | CD/DVD Image | 24R8197 | [Download](https://archive.org/details/24R8197) | Archive.org | 2005-02
+| X40 | Windows XP Professional | German | CD/DVD Image | 42J5665 | [Download](https://archive.org/details/42J5665) | Archive.org | 2005-09
+
+### IBM ThinkPad X41
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X41 | Windows XP Professional | English US | CD/DVD Image | 42J5926 | [Download](https://archive.org/details/thinkpad_x41_product_recovery/) | Archive.org | 
+| X41 | Windows XP Professional | German | CD/DVD Image | 39K7547 | [Download](https://archive.org/details/39K7547) | Archive.org | 
+| X41 | Windows XP Professional | Polish | CD/DVD Image |  | [Download](https://archive.org/details/x41_pl) | Archive.org | Create Recovery Media ISOs
+
+### IBM ThinkPad X41 Tablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X41 Tablet | Windows XP Tablet PC Edition 2005 | Chinese Simplified | CD/DVD Image |  | [Download](https://archive.org/details/think-pad.-x-41-t.-windows.-xp.-table-pc..-x-41-tcd-01) | Archive.org | Create Recovery Media ISOs
+| X41 Tablet | Windows XP Tablet PC Edition 2005 | English US | CD/DVD Image |  | [Download](https://archive.org/details/ibm_x41_xp_recovery_english) | Archive.org | IBM Branding - Create Recovery Media ISOs
+| X41 Tablet | Windows XP Tablet PC Edition 2005 | English US | CD/DVD Image | 42J8381 | [Download](https://archive.org/details/42J8381) | Archive.org | Lenovo Branding
+| X41 Tablet | Windows XP Tablet PC Edition 2005 | French | CD/DVD Image |  | [Download](https://archive.org/details/ibm_x41_rescue_dvd1_install) | Archive.org | Create Recovery Media ISOs
+| X41 Tablet | Windows XP Tablet PC Edition 2005 | German | CD/DVD Image | 42J8383 | [Download](https://archive.org/details/42J8383) | Archive.org | 
+
+### IBM ThinkPad X60
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X60/X60s | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/1_20201125_20201125_1634) | Archive.org | Create Recovery Media ISOs
+| X60/X60s | Windows XP Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | Create Recovery Media ISOs
+| X60/X60s | Windows XP Professional | German | CD/DVD Image | 43T5131 | [Download](https://archive.org/details/43T5131) | Archive.org | 
+| X60/X60s | Windows XP Professional | Russian | CD/DVD Image |  | [Download](https://archive.org/details/TPX60X60SWINXPPRO) | Archive.org | Create Recovery Media ISOs
+
+### IBM ThinkPad X60 Tablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X60 Tablet | Windows XP Tablet PC Edition 2005 | German | CD/DVD Image | 43T5531 | [Download](https://archive.org/details/43T5531) | Archive.org | 
+
+### IBM ThinkPad X61
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X61/X61s | Windows XP Professional | German | CD/DVD Image | 44Y0287 | [Download](https://archive.org/details/44Y0287) | Archive.org | 
+| X61/X61s | Windows Vista Home Basic x86 | English US | CD/DVD Image | 44Y0199 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| X61/X61s | Windows XP Professional | German | CD/DVD Image | 44Y0287 | [Download](https://archive.org/details/44Y0287) | Archive.org | 
+| X61/X61s | Windows Vista Business x86 | German | CD/DVD Image | 44Y0235 | [Download](https://archive.org/details/44Y0235) | Archive.org | 
+| X61/X61s | Windows Vista Business x86 | Chinese Traditional (Hong Kong S.A.R.) | CD/DVD Image | 44Y0178 | [Download]() | Archive.org | TODO UPLOAD
+
+### IBM ThinkPad X61 Tablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X61 Tablet | Windows Vista Business x86 | English | CD/DVD Image |  | [Download]() | Archive.org | TODO UPLOAD
+| X61 Tablet | Windows XP Tablet PC Edition 2005 | German | CD/DVD Image | 44Y0619 | [Download](https://archive.org/details/44Y0619) | Archive.org | 
+| X61 Tablet | Windows Vista Business x86 SP1 | German | CD/DVD Image | 44Y4534 | [Download](https://archive.org/details/44Y4534) | Archive.org | 
+| X61 Tablet | Windows Vista Ultimate x86 SP1 | Japanese | HDD-Image |  | [Download](https://archive.org/details/x61t-oem-disk-jp) | Archive.org | 
