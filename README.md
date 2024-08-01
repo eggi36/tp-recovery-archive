@@ -52,6 +52,40 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | A31/A31p | Windows XP Professional | English US | CD/DVD Image | 01R6024 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 | A31/A31p | Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 
+### IBM ThinkPad G40
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| G40 | Windows XP Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+| G40 | Windows XP Professional | English US | HPA Image | | [Download](https://archive.org/details/TPG40HPAUSRestore) | Archive.org | |
+| G40 | Windows XP Professional | German | HPA Image | | [Download](https://archive.org/details/TPG40HPADERestore) | Archive.org | |
+| G40 | Windows XP Professional | Norwegian | HPA Image | | [Download](https://archive.org/details/TPG40HPANORestore) | Archive.org | |
+
+### IBM ThinkPad R31
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| R31 | Windows XP Professional | English US | CD/DVD Image | 01R5347 | [Download](https://archive.org/details/ibm-r-31-disk-1) | Archive.org | |
+| R31 | Windows XP Home Edition | English US | CD/DVD Image | 01R5348 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+
+### IBM ThinkPad R32
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| R32 | Windows XP Professional | German | CD/DVD Image | 01R6098 | [Download](https://archive.org/details/01R6098) | Archive.org | |
+
+### IBM ThinkPad R40
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| R40 | Windows XP Professional | German | HPA Image | | [Download](https://archive.org/details/TPR40HPADERestore) | Archive.org | |
+| R40 | Windows XP Professional | English US | CD/DVD Image | 01R8517 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+| R40e | Windows XP Home Edition | German | HPA Image | | [Download](https://archive.org/details/TPR40eHPADERestore) | Archive.org | |
+
+### IBM ThinkPad R60
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| R60/R60e | Windows XP Professional | English | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-r60) | Archive.org | Create Recovery Media ISOs |
+| R60/R60e | Windows XP Professional | German | CD/DVD Image | 43T6147 | [Download](https://archive.org/details/43T6147) | Archive.org | |
+| R60/R60e | Windows Vista Business x86 | German | CD/DVD Image | 43T7204 | [Download](https://archive.org/details/43T7204) | Archive.org | |
+| R60/R60e | Windows XP Professional | Norwegian | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD - Create Recovery Media ISOs | 
+
 ### IBM ThinkPad S30
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -108,12 +142,13 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T40 | Windows XP Professional | English US | CD/DVD Image | 01R8046 | [Download](https://archive.org/details/IBMThinkpadT4041RecoveryCDs) | Archive.org |
 | T40 | Windows XP Professional | German | CD/DVD Image | 01R8051 | [Download](https://archive.org/details/t40_recovery_german) | Archive.org |
 
-### IBM ThinkPad T41/T41p/R50/R50p
+### IBM ThinkPad T41/T41p/R50/R50e/R50p
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | T41/R50 | Windows XP Professional | Chinese Simplified | CD/DVD Image | 01R8800 | [Download](https://archive.org/details/thinkpad-t41-t41p-t60-blueex_chsrecovery) | Archive.org |
 | T41/T41p/R50/R50p | Windows XP Professional | German | CD/DVD Image | 24R7067 | [Download](https://archive.org/details/24R7067) | Archive.org |
 | T41/T41p/R50/R50p | Windows XP Professional | English US | CD/DVD Image | 24R8116 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| R50e | Windows XP Professional | German | CD/DVD Image | | [Download](https://archive.org/details/TPR50eWINXPGR) | Archive.org | Create Recovery Media ISOs |
 
 ### IBM ThinkPad T42/T42p/R51
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -135,6 +170,13 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T43/T43p (ATI Graphics) | Windows XP Professional | Finnish | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-t43-finnish) | Archive.org | Create Recovery Media ISOs
 | T43/R52 (Intel Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K8487 | [Download](https://archive.org/details/IBMThinkPadT41R52Restore) | Archive.org | 
 | T43/T43p (ATI Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K9211 | [Download](https://archive.org/details/T43WinXP) or [Download](https://archive.org/details/39K92633)| Archive.org |
+
+### IBM ThinkPad Transnote
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| Transnote | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-transnote-product-recovery-cd) | Archive.org |  |
+| Transnote | Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/drivers-and-utilities) | Archive.org |  |
+| Transnote | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-transnote-software-selections-cd) | Archive.org |  |
 
 ### IBM ThinkPad X20
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -226,3 +268,17 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | X61 Tablet | Windows XP Tablet PC Edition 2005 | German | CD/DVD Image | 44Y0619 | [Download](https://archive.org/details/44Y0619) | Archive.org | 
 | X61 Tablet | Windows Vista Business x86 SP1 | German | CD/DVD Image | 44Y4534 | [Download](https://archive.org/details/44Y4534) | Archive.org | 
 | X61 Tablet | Windows Vista Ultimate x86 SP1 | Japanese | HDD-Image |  | [Download](https://archive.org/details/x61t-oem-disk-jp) | Archive.org | 
+
+### IBM ThinkPad Z60
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| Z60m/Z60t | Windows XP Professional | English US | CD/DVD Image |  | [Download](https://archive.org/details/thinkpad-z60m-recovery-english) | Archive.org | 2006 - Create Recovery Media ISOs
+| Z60m/Z60t | Windows XP Professional | English US | CD/DVD Image | 42J5238 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 2005
+| Z60m/Z60t | Windows XP Home Edition | German | CD/DVD Image |  | [Download](https://archive.org/details/TPZ60mtWINXPHOMEGR) | Archive.org | Create Recovery Media ISOs
+
+### IBM ThinkPad Z61
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| Z61m/Z61p/Z61t | Windows XP Professional | English US | CD/DVD Image | 43T5713 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| Z61m/Z61p/Z61t | Windows XP Professional | German | CD/DVD Image | 42J8657 | [Download](https://archive.org/details/42J8657) | Archive.org |
+| Z61m/Z61p/Z61t | Windows Vista Business x86 | English US | CD/DVD Image | 43T7354 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
