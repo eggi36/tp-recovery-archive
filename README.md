@@ -64,3 +64,24 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T41/R50 | Windows XP Professional | Chinese Simplified | CD/DVD Image | 01R8800 | [Download](https://archive.org/details/thinkpad-t41-t41p-t60-blueex_chsrecovery) | Archive.org |
 | T41/T41p/R50/R50p | Windows XP Professional | German | CD/DVD Image | 24R7067 | [Download](https://archive.org/details/24R7067) | Archive.org |
 | T41/T41p/R50/R50p | Windows XP Professional | English US | CD/DVD Image | 24R8116 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+
+### IBM ThinkPad T42/T42p/R51
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| R51 | Windows XP Professional | French | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-r-51-recovery-fr-dvd) | Archive.org |
+| R51 | Windows XP Professional | German | CD/DVD Image | 24R5451 | [Download](https://archive.org/details/24R5451) | Archive.org |
+| T42/T42p/R51 | Windows XP Professional | German | CD/DVD Image | 24R7712 | [Download](https://archive.org/details/24R7687/24R7712) | Archive.org |
+| T42/T42p/R51 | Windows XP Professional | English US | CD/DVD Image | 24R7684 | [Download](https://archive.org/details/thinkpad-t42-product-recovery-cd) or [Download](https://archive.org/details/Disc2of7January2005PN24R7734XPPSP2ENFRUPN24R7684) | Archive.org | 2005-01
+| T42 | Windows XP Professional | English US | CD/DVD Image |  | [Download](https://archive.org/details/ibm-t42-recovery-cds) | Archive.org | 2005-03 - Create Recovery Media ISOs
+
+### IBM ThinkPad T43/T43p/R52
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| T43/T43p (ATI Graphics) | Windows XP Professional | Chinese Simplified | CD/DVD Image | | [Download](https://archive.org/details/t43-xpsp2-recovery-chs) | Archive.org | Create Recovery Media ISOs
+| T43/R52 (Intel Graphics) | Windows XP Home Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPT43R52WINXPHOMEGR) | Archive.org | Create Recovery Media ISOs
+| T43/T43p (ATI Graphics) | Windows XP Professional | German | CD/DVD Image | 39K9214 | [Download](https://archive.org/details/39K9214) | Archive.org |
+| T43/R52 (Intel Graphics) | Windows XP Professional | German | CD/DVD Image | 39K8490 | [Download](https://archive.org/details/39K8490) | Archive.org |
+| T43/T43p (ATI Graphics) | Windows XP Professional | Polish | CD/DVD Image | 39K9228 | [Download](https://archive.org/details/recovery_cd_thinkpad_t43) | Archive.org |
+| T43/T43p (ATI Graphics) | Windows XP Professional | Finnish | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-t43-finnish) | Archive.org | Create Recovery Media ISOs
+| T43/R52 (Intel Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K8487 | [Download](https://archive.org/details/IBMThinkPadT41R52Restore) | Archive.org | 
+| T43/T43p (ATI Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K9211 | [Download](https://archive.org/details/T43WinXP) or [Download](https://archive.org/details/39K92633)| Archive.org |
