@@ -2,6 +2,21 @@
 List of available IBM/Lenovo ThinkPad Recovery Media
 
 
+### IBM ThinkPad S30
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| S30 | Windows 2000 Professional | Japanese | CD/DVD Image | 46P4410 | [Download](https://archive.org/details/TPT20DERestore) | Archive.org |  |
+| S30 | Software Selections CD | Japanese | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+
+### IBM ThinkPad T20
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| T20 | Windows 95 & Windows 98 Second Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPT20DERestore) | Archive.org |  |
+| T20 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TPT20DERestore) | Archive.org |  |
+| T20 | Windows 98 Second Edition | Italian | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-t-20-mt-2647-recovery-cd-rom-italian-disk-1) | Archive.org | custom OEM version for Banca Intesa |
+| T20 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-t-20-recovery) | Archive.org | NT 4.0 disc is missing |
+| T20 | Windows 95 & Windows 98 Second Edition | English US | CD/DVD Image | | [Disc 1 (Win98) Download](https://archive.org/details/think-pad-t-20-win-98-installer) Disc 2 (Win95) [Download](https://archive.org/details/think-pad-t-20-win-95-installer) or [Download](https://archive.org/details/ibm-t-20-recovery) | Archive.org |  |
+
 ### IBM ThinkPad T21
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -12,10 +27,6 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T21 | Software Selections CD | German | CD/DVD Image | 23P1815 | [Download](https://archive.org/details/23P1815) | Archive.org |  |
 | T21 | Software Selections CD | English US | CD/DVD Image | 23P1846 | [Download](https://archive.org/details/ibm-thinkpad-t21-software-selections-windows-2000-nt) | Archive.org |  |
 | T21 | Software Selections CD | English UK | CD/DVD Image | 19K9975 | [Download](https://archive.org/details/IBMThinkPadT21SoftwareSelections) | Archive.org |  |
-
-
-
-| T21 |  | English US | CD/DVD Image | unknown | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 
 ### IBM ThinkPad T22
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
@@ -33,3 +44,23 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T23 | Windows XP Professional | English US | CD/DVD Image | 32P6722 | [Download](https://archive.org/details/thinkpad-t-23-win-xp-restore) | Archive.org | later version (2002-03) |
 | T23 | Windows XP Professional | German | CD/DVD Image | 32P6729 | [Download](https://archive.org/details/32P6729) | Archive.org |
 | T23 | Windows XP Professional | Spanish | CD/DVD Image | 32P6730 | [Download](https://archive.org/details/t-23-wxp-32-p-7296) | Archive.org |
+
+### IBM ThinkPad T30
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| T30 | Windows 2000 Professional | English US | CD/DVD Image | 01R5361 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| T30 | Windows XP Professional | English US | CD/DVD Image | 01R5421 | [Download](https://archive.org/details/thinkpad-t30) or [Download](https://archive.org/details/ibm-thinkpad-t30-restore-discs) | Archive.org |
+| T30 | Windows XP Professional | German | CD/DVD Image | 01R5426 | [Download](https://archive.org/details/01R5426) | Archive.org |
+
+### IBM ThinkPad T40
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| T40 | Windows XP Professional | English US | CD/DVD Image | 01R8046 | [Download](https://archive.org/details/IBMThinkpadT4041RecoveryCDs) | Archive.org |
+| T40 | Windows XP Professional | German | CD/DVD Image | 01R8051 | [Download](https://archive.org/details/t40_recovery_german) | Archive.org |
+
+### IBM ThinkPad T41/T41p/R50/R50p
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| T41/R50 | Windows XP Professional | Chinese Simplified | CD/DVD Image | 01R8800 | [Download](https://archive.org/details/thinkpad-t41-t41p-t60-blueex_chsrecovery) | Archive.org |
+| T41/T41p/R50/R50p | Windows XP Professional | German | CD/DVD Image | 24R7067 | [Download](https://archive.org/details/24R7067) | Archive.org |
+| T41/T41p/R50/R50p | Windows XP Professional | English US | CD/DVD Image | 24R8116 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
