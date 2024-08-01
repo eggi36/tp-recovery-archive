@@ -1,6 +1,48 @@
 # ThinkPad Recovery Media
 List of available IBM/Lenovo ThinkPad Recovery Media
 
+
+### IBM ThinkPad 235
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 235 | Windows 98 First Edition | Japanese | CD/DVD Image | | [Download](https://archive.org/details/thinkpad_recovery_235) | Archive.org | corrupted |
+
+### IBM ThinkPad 240
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 240 | Windows 95 & Windows 98 First Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 240 | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 240X | Windows 98 Second Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+
+### IBM ThinkPad 310
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 310ED | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/10L9658) or [Download](https://archive.org/details/10-l-9658) | Archive.org |
+
+### IBM ThinkPad 350
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 350 | Windows 3.1 | English US | Floppy Image | | [Download](https://archive.org/details/ibm-ps-note-425.7z) | Archive.org |
+
+### IBM ThinkPad 355
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 355C/CS | Windows 3.1 | English US | Floppy Image | KWAGCUS | [Download](https://archive.org/details/thinkpad-355-series-recovery-disks.-7z) | Archive.org | Create Recovery Media
+| 355C/CS | Windows 3.1 | English US | Floppy Image | KWADEUS | [Download](https://archive.org/details/OriginalThinkPadSoftwareBackupDiskettes1994) | Archive.org | Create Recovery Media
+
+### IBM ThinkPad 360
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 360C | Windows 3.1 | Norwegian | HDD-Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 360P | Windows 3.1 | English US | HDD-Image | | [Download](https://archive.org/details/360-p-disk-image-and-dump) | Archive.org |
+| 360PE | Windows 3.1 | English US | Floppy Image | | [Download](https://archive.org/details/ibm-thinkpad-360PE-restore-disk-images) | Archive.org |
+
+### IBM ThinkPad 365
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 365XD | Windows 3.1 | English UK | Folder Dump | | [Download](https://archive.org/details/thinkpad-365xd-software) | Archive.org | Partial dump from working system
+| 365XD | Windows 3.1 | English US | Floppy Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | Full set of driver & software floppy images
+
 ### IBM ThinkPad A20
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
