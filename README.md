@@ -1,6 +1,42 @@
 # tp-recovery-archive
 List of available IBM/Lenovo ThinkPad Recovery Media
 
+### IBM ThinkPad A20
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| A20m | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-a20m-recovery-cd) | Archive.org |  |
+| A20m | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/IBM_ThinkPad_A20M_Software_CD_v1.0_19K9013_2000_Eng) | Archive.org |  |
+| A20m | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download Disc1 (W2K)](https://archive.org/details/IBM_ThinkPad_A20M_Recovery_CD_v1.0_Windows_2000_19K9011_2000_Eng)  [Download Disc2 (NT4)](https://archive.org/details/IBM_ThinkPad_A20M_Recovery_CD_v1.0_Windows_NT_19K9012_2000_Eng)| Archive.org | |
+| A20p | Windows 95 & Windows 98 Second Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| A20p | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/tpada20p)| Archive.org | |
+| A20p | Windows NT 4.0 Workstation & Windows 2000 Professional | German | CD/DVD Image | | [Download](https://archive.org/details/TPA20PGR)| Archive.org | NT 4.0 disc is missing |
+| A20p | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/tpada20p)| Archive.org | |
+| A20p | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TPA20PGR)| Archive.org | |
+
+### IBM ThinkPad A21
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| A21e | Windows 98 Second Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| A21e | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| A21e | Windows 98 Second Edition | Spanish | CD/DVD Image | | [Download](https://archive.org/details/a-21e-23-p-2037)| Archive.org | |
+| A21e | Software Selections CD | Spanish | CD/DVD Image | | [Download](https://archive.org/details/a-21e-23-p-2037)| Archive.org | |
+| A21m | Windows 98 Second Edition | Chinese Simplified | CD/DVD Image | | [Download](https://archive.org/details/kzcsma0)| Archive.org | |
+| A21m | Software Selections CD | Chinese Simplified | CD/DVD Image | | [Download](https://archive.org/details/kzcssscd)| Archive.org | |
+| A21m | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/a-21m-recovery)| Archive.org | |
+| A21m | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/a-21m-recovery)| Archive.org | |
+| A21m | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/A21mW2K)| Archive.org | NT 4.0 disc is missing - [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) for complete set |
+| A21p | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+| A21p | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | NT 4.0 disc is missing |
+
+### IBM ThinkPad A22
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| A22m | Windows 98 Second Edition | English US | HDD Image | | [Download](https://archive.org/details/TPA22MWIN98SEUSSP)| Archive.org | |
+| A22m | Windows Millennium Edition | German | HDD Image | | [Download](https://archive.org/details/TPA22MWINMEGRSP)| Archive.org | custom OEM version for Erste Bank |
+| A22m | Windows NT 4.0 Workstation & Windows 2000 Professional | German | HDD Image | | [Download](https://archive.org/details/TPA22MWIN2KNTGRSP)| Archive.org | |
+| A22m | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | 23P8952 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | NT 4.0 disc is missing |
+| A22p | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | 14P9572 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+
 
 ### IBM ThinkPad S30
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
