@@ -19,6 +19,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | 310ED | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/10L9658) or [Download](https://archive.org/details/10-l-9658) | Archive.org |
 
+### IBM ThinkPad 340
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 340CSE | Windows 3.1 | English US | Floppy Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | Create Recovery Media
+
 ### IBM ThinkPad 350
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -92,12 +97,12 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | A31 | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/ibma31recovert) | Archive.org | |
 | A31/A31p | Windows XP Professional | German | CD/DVD Image | 01R6029 | [Download](https://archive.org/details/01R6029) | Archive.org | |
 | A31/A31p | Windows XP Professional | English US | CD/DVD Image | 01R6024 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
-| A31/A31p | Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+| ~~A31/A31p~~ | ~~Windows 2000 Professional~~ | ~~English US~~ | ~~CD/DVD Image~~ | | ~~[Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170)~~ | ~~Recovery Set Repository~~ | mislabeled - is for A30/A30p |
 
 ### IBM ThinkPad G40
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| G40 | Windows XP Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+| G40 | Windows XP Professional | English US | CD/DVD Image | 01R7839 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 | G40 | Windows XP Professional | English US | HPA Image | | [Download](https://archive.org/details/TPG40HPAUSRestore) | Archive.org | |
 | G40 | Windows XP Professional | German | HPA Image | | [Download](https://archive.org/details/TPG40HPADERestore) | Archive.org | |
 | G40 | Windows XP Professional | Norwegian | HPA Image | | [Download](https://archive.org/details/TPG40HPANORestore) | Archive.org | |
@@ -141,6 +146,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T20 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TPT20DERestore) | Archive.org |  |
 | T20 | Windows 98 Second Edition | Italian | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-t-20-mt-2647-recovery-cd-rom-italian-disk-1) | Archive.org | custom OEM version for Banca Intesa |
 | T20 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-t-20-recovery) | Archive.org | NT 4.0 disc is missing |
+| T20 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 | T20 | Windows 95 & Windows 98 Second Edition | English US | CD/DVD Image | | [Disc 1 (Win98) Download](https://archive.org/details/think-pad-t-20-win-98-installer) Disc 2 (Win95) [Download](https://archive.org/details/think-pad-t-20-win-95-installer) or [Download](https://archive.org/details/ibm-t-20-recovery) | Archive.org |  |
 
 ### IBM ThinkPad T21
