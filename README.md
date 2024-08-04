@@ -236,6 +236,27 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | G40 | Windows XP Professional | German | HPA Image | | [Download](https://archive.org/details/TPG40HPADERestore) | Archive.org | |
 | G40 | Windows XP Professional | Norwegian | HPA Image | | [Download](https://archive.org/details/TPG40HPANORestore) | Archive.org | |
 
+### IBM ThinkPad i Series 1200
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| i1200 | Windows Millennium Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ThinkPadi1200Recovery) | Archive.org | |
+
+### IBM ThinkPad i Series 1400
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| i1400 | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/iseries1400recovery) | Archive.org | |
+| i1400 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/10-k-0583) | Archive.org | 1999-09 |
+| i1400 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-customization-i-series-1400) | Archive.org | 1998-10 |
+| i1400 | Windows 98 First Edition | Chinese Traditional | CD/DVD Image | | [Download]() | Archive.org | | TODO UPLOAD
+| i1400 | Windows 98 Second Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPi1400DERestore) | Archive.org | |
+| i1400 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TPi1400DERestore) | Archive.org | |
+
+### IBM ThinkPad i Series 1400
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| i1500 | Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+| i1500 | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+
 ### IBM ThinkPad R31
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
