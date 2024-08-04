@@ -110,7 +110,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 600 | Windows 95 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | XGA Models
 | 600 | Windows 95 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | SVGA Models
 | 600 | Windows 98 First Edition | English UK | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
-| 600 | Windows 98 First Edition | Swedish | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD
+| 600 | Windows 98 First Edition | Swedish | CD/DVD Image | | [Download](https://archive.org/details/28L2605) | Archive.org | 
 | 600 | Windows 95 | English UK | CD/DVD Image | | [Download](https://archive.org/details/think-pad-600-install-disc) | Archive.org |
 | 600 | Windows NT 4.0 Workstation | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm_tpad600_nt4_recovery) | Archive.org |
 | 600 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm_tpad600_customization_nt4-w95) | Archive.org | There are at least two other different versions
