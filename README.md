@@ -1,7 +1,6 @@
 # ThinkPad Recovery Media
 List of available IBM/Lenovo ThinkPad Recovery Media
 
-
 ### IBM ThinkPad 235
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -105,10 +104,78 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 570E | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
 | 570E | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
 
+### IBM ThinkPad 600
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 600 | Windows 95 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | XGA Models
+| 600 | Windows 95 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | SVGA Models
+| 600 | Windows 98 First Edition | English UK | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 600 | Windows 98 First Edition | Swedish | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD
+| 600 | Windows 95 | English UK | CD/DVD Image | | [Download](https://archive.org/details/think-pad-600-install-disc) | Archive.org |
+| 600 | Windows NT 4.0 Workstation | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm_tpad600_nt4_recovery) | Archive.org |
+| 600 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm_tpad600_customization_nt4-w95) | Archive.org | There are at least two other different versions
+| 600E | Windows 95 & Windows 98 First Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 600E | Windows NT 4.0 Workstation | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 600E | Windows 98 First Edition | English UK | CD/DVD Image | | [Download](https://archive.org/details/28-l-3310) | Archive.org |
+| 600E | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/00N6291) | Archive.org |
+| 600E | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 600X | Windows 95 & Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/IBMProductRecoveryThinkpad600X) | Archive.org | Windows 95 disc is missing - [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) for complete set |
+| 600X | Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 600X | Windows NT 4.0 Workstation | English US | CD/DVD Image | | [Download](https://archive.org/details/10K0229) | Archive.org |
+| 600X | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/10K0229) | Archive.org |
+| 600X | Windows NT 4.0 Workstation & Windows 2000 Professional | German | CD/DVD Image | 10K0429 | [Download](https://archive.org/details/10K0429)| Archive.org | 
+| 600X | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/10K0429) | Archive.org |
 
+### IBM ThinkPad 701
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 701C/CS | Windows 3.1 & OS/2 | English US | CD/DVD Image | | [Download](https://archive.org/details/TP701CSENRestore) | Archive.org |
+| 701C/CS | Windows 3.1 & OS/2 | English UK | CD/DVD Image | 45H4581 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 
+### IBM ThinkPad 730
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 730T | Windows 3.1 | English US | Floppy Dump | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 
+### IBM ThinkPad 755
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 755C | Windows 3.1 | English US | HDD-Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 755CD/CE | Windows 3.1 & OS/2 | English US | CD/DVD Image | | [Download](https://archive.org/details/TP755CDENRestore) | Archive.org |
 
+### IBM ThinkPad 760
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 760C/CD | Windows 3.1 & OS/2 | German | CD/DVD Image | | [Download](https://archive.org/details/TP760CDDERestore) | Archive.org |
+| 760E/ED/EL | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-760-ed-recovery) | Archive.org |
+| 760XD | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad760xd) | Archive.org |
+| 760XL | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/760-xl-recovery-cd-win-95) | Archive.org |
+| 760XL | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/DRGRFA0) | Archive.org |
+
+### IBM ThinkPad 770
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 770 | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-770-product-recovery-cd-rom-egusfa0) | Archive.org | Mwave Models
+| 770 | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-770-recovery-cd-rom-ejusfa0) or [Download](https://archive.org/details/ibm-think-pad-770-recovery-ejusfa-0) | Archive.org | 
+| 770 | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/10L8564) | Archive.org |
+| 770ED | Windows 95 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 770ED | Software Selections CD | German | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 770X | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/28L2872) | Archive.org |
+| 770Z | Windows 98 First Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/28-l-3160) | Archive.org |
+| 770Z | Software Selections CD | English US | CD/DVD Image | | [Download]([https://archive.org/details/28L2872](https://archive.org/details/28-l-3160)) | Archive.org |
+
+### IBM ThinkPad 820
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 820 | Windows NT 3.51 Workstation | English US | CD/DVD Image | | [Download](https://archive.org/details/NT351PMZPPC) | Archive.org | 
+| 820 | Software CD | English US | CD/DVD Image | | [Download](https://archive.org/details/think-pad-820-program-pack-cd) | Archive.org | 
+
+### IBM ThinkPad 850
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 850 | Windows NT 3.51 Workstation | English US | CD/DVD Image | | [Download](https://archive.org/details/NT351PMZPPC) | Archive.org | 
+| 850 | AIX 4 | English US | CD/DVD Image | | [Download](https://archive.org/details/tp850-media) | Archive.org | 
+| 850 | Software CD | English US | CD/DVD Image | | [Download](https://archive.org/details/tp850-media) | Archive.org | 
 
 ### IBM ThinkPad A20
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
