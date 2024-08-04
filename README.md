@@ -45,8 +45,70 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad 365
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| 365XD | Windows 3.1 | English UK | Folder Dump | | [Download](https://archive.org/details/thinkpad-365xd-software) | Archive.org | Partial dump from working system
-| 365XD | Windows 3.1 | English US | Floppy Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | Full set of driver & software floppy images
+| 365XD | Windows 95 | English UK | Folder Dump | | [Download](https://archive.org/details/thinkpad-365xd-software) | Archive.org | Partial dump from working system
+| 365XD | Windows 3.1 & Windows 95 | English US | Floppy Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | Full set of driver & software floppy images
+
+### IBM ThinkPad 380
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 380/380D | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad380rec) | Archive.org | 
+| 380E/380ED | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-380-recovery-cd) | Archive.org | 
+| 380E/380ED | Windows 95 | German | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD
+| 380XD | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-380-xd-recovery-cd) or [Download](https://archive.org/details/ibm-380-xd-380-z-cd-recovery-05-l-2198-windows-95)| Archive.org |
+| 380XD | Windows 95 | English UK | CD/DVD Image | | [Download](https://archive.org/details/11l-0183) | Archive.org |
+| 380Z | Windows NT 4.0 Workstation | German | CD/DVD Image | | [Download](https://archive.org/details/24L7862) | Archive.org |
+| 380Z | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/24L7832) | Archive.org |
+| 380Z | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/24L7832) | Archive.org |
+
+### IBM ThinkPad 385
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 385E/385ED | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad385ed) | Archive.org | 
+| 385XD | Windows 98 First Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-think-pad-385-xd-product-recovery-cd-windows-98-se) | Archive.org | 
+
+### IBM ThinkPad 390
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 390 | Windows 98 First Edition | English UK | CD/DVD Image | | [Download](https://archive.org/details/390-recovery) | Archive.org | 
+| 390 | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/28-l-2738) | Archive.org | 
+| 390 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/28-l-2738) | Archive.org |
+| 390E | Windows 95 & Windows 98 First Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/IBM-ThinkPad-390E-Restore-CDs) | Archive.org | 
+| 390E | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/IBM-ThinkPad-390E-Software-CD) | Archive.org |
+| 390E | Windows 95 & Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TP390EDERestore) | Archive.org | 
+| 390E | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TP390EDERestore) | Archive.org |
+| 390E | Windows 95 & Windows 98 First Edition | Dutch | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 390X | Windows 95 & Windows 98 Second Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 390X | Windows 98 Second Edition | English UK | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 390X | Software Selections CD | English UK | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+
+### IBM ThinkPad 510
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 510CS | Windows 3.1 | German | HDD-Image | | [Download]() | Archive.org | TODO: CLEANUP & UPLOAD
+
+### IBM ThinkPad 560
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 560Z | Windows 98 First Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 560Z | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TP560ZDERestore) | Archive.org | 
+| 560Z | Windows 95 | German | HDD-Image | | [Download]() | Archive.org | TODO: CLEANUP & UPLOAD
+| 560Z | Windows NT 4.0 Workstation | German | CD/DVD Image | | [Download](https://archive.org/details/28L2574) | Archive.org | 
+| 560Z | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TP560ZDERestore) | Archive.org |
+
+### IBM ThinkPad 570
+| Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 570 | Windows 95 & Windows 98 First Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 570 | Windows NT 4.0 Workstation | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 570 | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 570 | Windows 95 & Windows 98 First Edition | German | CD/DVD Image | 00N4534 | [Download](https://archive.org/details/00N4534) | Archive.org |
+| 570E | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 570E | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+
+
+
+
+
 
 ### IBM ThinkPad A20
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
