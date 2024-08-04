@@ -1,4 +1,4 @@
-# ThinkPad Recovery Media
+# ThinkPad Recovery Media Megalist
 List of available IBM/Lenovo ThinkPad Recovery Media
 
 ### IBM ThinkPad 235
