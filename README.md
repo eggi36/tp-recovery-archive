@@ -251,7 +251,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | i1400 | Windows 98 Second Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPi1400DERestore) | Archive.org | |
 | i1400 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TPi1400DERestore) | Archive.org | |
 
-### IBM ThinkPad i Series 1400
+### IBM ThinkPad i Series 1500
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | i1500 | Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
