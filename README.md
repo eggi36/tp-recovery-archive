@@ -281,7 +281,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | R60/R60e | Windows XP Professional | English | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-r60) | Archive.org | Create Recovery Media ISOs |
 | R60/R60e | Windows XP Professional | German | CD/DVD Image | 43T6147 | [Download](https://archive.org/details/43T6147) | Archive.org | |
 | R60/R60e | Windows Vista Business x86 | German | CD/DVD Image | 43T7204 | [Download](https://archive.org/details/43T7204) | Archive.org | |
-| R60/R60e | Windows XP Professional | Norwegian | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD - Create Recovery Media ISOs | 
+| R60/R60e | Windows XP Professional | Norwegian | CD/DVD Image | | [Download](https://archive.org/details/TPR60eWINXPPRONOR) | Archive.org | Create Recovery Media ISOs | 
 
 ### IBM ThinkPad S30
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
