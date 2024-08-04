@@ -162,7 +162,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 770ED | Software Selections CD | German | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 | 770X | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/28L2872) | Archive.org |
 | 770Z | Windows 98 First Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/28-l-3160) | Archive.org |
-| 770Z | Software Selections CD | English US | CD/DVD Image | | [Download]([https://archive.org/details/28L2872](https://archive.org/details/28-l-3160)) | Archive.org |
+| 770Z | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/28-l-3160) | Archive.org |
 
 ### IBM ThinkPad 820
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
