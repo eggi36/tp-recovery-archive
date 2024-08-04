@@ -369,6 +369,31 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T43/R52 (Intel Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K8487 | [Download](https://archive.org/details/IBMThinkPadT41R52Restore) | Archive.org | 
 | T43/T43p (ATI Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K9211 | [Download](https://archive.org/details/T43WinXP) or [Download](https://archive.org/details/39K92633)| Archive.org |
 
+### IBM ThinkPad T60
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| T60/T60p | Windows Vista Business x86 | German | CD/DVD Image | | [Download](https://archive.org/details/TPT60VBX86GR) | Archive.org | Create Recovery Media ISOs
+| T60/T60p | Windows XP Professional | Russian | CD/DVD Image | 43T6613 | [Download](https://archive.org/details/WinXPProSP2RUSThinkPadT60T60p) | Archive.org |
+| T60/T60p | Windows XP Professional | Chinese Simplified | CD/DVD Image | 42J6281 | [Download](https://archive.org/details/t60-xprecovery-chs) | Archive.org | 2006-02
+| T60/T60p | Windows XP Professional | Chinese Simplified | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-t60p-chs-xprecovery) | Archive.org | 2006-08 Create Recovery Media ISOs
+| T60/T60p | Windows XP Professional | German | CD/DVD Image | 43T6596 | [Download](https://archive.org/details/thinkpad-t60-german) | Archive.org |
+| T60/T60p | Windows XP Professional | English US | CD/DVD Image | 42J6269 | [Download](https://archive.org/details/ThinkPadT60RecoveryMedia) or [Download](https://archive.org/details/thinkpad-t60)| Archive.org | 2006-01
+| T60/T60p | Windows XP Professional | English US | CD/DVD Image | 43T8618 | [Download](https://archive.org/details/lenovot60recovery) | Archive.org |
+| T60/T60p | Windows Vista Business x86 | English US | CD/DVD Image | 43T7402 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+
+### IBM ThinkPad T61/R61
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| T61/R61 | Windows XP Professional | Chinese Simplified | CD/DVD Image | | [Download](https://archive.org/details/T61WinXPProSp2RecoveryDisks-CN) | Archive.org | Create Recovery Media ISOs
+| T61/R61 | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/T61WinXPProSp2RecoveryDisks) | Archive.org | Create Recovery Media ISOs
+| T61/R61 | Windows Vista Business x86 | English US | CD/DVD Image | 43T8032 | [Download](https://archive.org/details/T61WinVistaBusinessRTMx86RecoveryDisks) | Archive.org | 
+| T61/R61 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | Create Recovery Media ISOs
+| T61/R61 | Windows XP Professional | German | CD/DVD Image | 43T8162 | [Download](https://archive.org/details/43T8162) | Archive.org | 
+| T61/R61 | Windows Vista Business x86 | German | CD/DVD Image | 43T8035 | [Download](https://archive.org/details/43T8035) | Archive.org | 
+| T61/R61 | Windows XP Professional | Russian | CD/DVD Image | 43T8177 | [Download]() | Archive.org | TODO UPLOAD - 2007
+| T61/R61 | Windows XP Professional | Russian | CD/DVD Image | 44Y3969 | [Download]() | Archive.org | TODO UPLOAD - 2008
+| T61/R61 | Windows XP Professional | Polish | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD -  Create Recovery Media ISOs
+
 ### IBM ThinkPad Transnote
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
