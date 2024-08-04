@@ -487,7 +487,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad X61 Tablet
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| X61 Tablet | Windows Vista Business x86 | English | CD/DVD Image |  | [Download]() | Archive.org | TODO UPLOAD
+| X61 Tablet | Windows Vista Business x86 | English US | CD/DVD Image |  | [Download]() | Archive.org | TODO UPLOAD - Create Recovery Media ISOs 
 | X61 Tablet | Windows XP Tablet PC Edition 2005 | German | CD/DVD Image | 44Y0619 | [Download](https://archive.org/details/44Y0619) | Archive.org | 
 | X61 Tablet | Windows Vista Business x86 SP1 | German | CD/DVD Image | 44Y4534 | [Download](https://archive.org/details/44Y4534) | Archive.org | 
 | X61 Tablet | Windows Vista Ultimate x86 SP1 | Japanese | HDD-Image |  | [Download](https://archive.org/details/x61t-oem-disk-jp) | Archive.org | 
