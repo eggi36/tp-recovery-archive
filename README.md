@@ -247,7 +247,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | i1400 | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/iseries1400recovery) | Archive.org | |
 | i1400 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/10-k-0583) | Archive.org | 1999-09 |
 | i1400 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-customization-i-series-1400) | Archive.org | 1998-10 |
-| i1400 | Windows 98 First Edition | Chinese Traditional | CD/DVD Image | | [Download]() | Archive.org | | TODO UPLOAD
+| i1400 | Windows 98 First Edition | Chinese Traditional | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD | 
 | i1400 | Windows 98 Second Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPi1400DERestore) | Archive.org | |
 | i1400 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TPi1400DERestore) | Archive.org | |
 
@@ -482,7 +482,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | X61/X61s | Windows Vista Home Basic x86 | English US | CD/DVD Image | 44Y0199 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 | X61/X61s | Windows XP Professional | German | CD/DVD Image | 44Y0287 | [Download](https://archive.org/details/44Y0287) | Archive.org | 
 | X61/X61s | Windows Vista Business x86 | German | CD/DVD Image | 44Y0235 | [Download](https://archive.org/details/44Y0235) | Archive.org | 
-| X61/X61s | Windows Vista Business x86 | Chinese Traditional (Hong Kong S.A.R.) | CD/DVD Image | 44Y0178 | [Download]() | Archive.org | TODO UPLOAD
+| X61/X61s | Windows Vista Business x86 | Chinese Traditional (Hong Kong S.A.R.) | CD/DVD Image | 44Y0178 | [Download](https://archive.org/details/44Y0178) | Archive.org | 
 
 ### IBM ThinkPad X61 Tablet
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
