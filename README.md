@@ -247,7 +247,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | i1400 | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/iseries1400recovery) | Archive.org | |
 | i1400 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/10-k-0583) | Archive.org | 1999-09 |
 | i1400 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-customization-i-series-1400) | Archive.org | 1998-10 |
-| i1400 | Windows 98 First Edition | Chinese Traditional | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD | 
+| i1400 | Windows 98 First Edition | Chinese Traditional | CD/DVD Image | | [Download](https://archive.org/details/27L8377) | Archive.org | | 
 | i1400 | Windows 98 Second Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPi1400DERestore) | Archive.org | |
 | i1400 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TPi1400DERestore) | Archive.org | |
 
