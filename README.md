@@ -31,8 +31,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad 355
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| 355C/CS | Windows 3.1 | English US | Floppy Image | KWAGCUS | [Download](https://archive.org/details/thinkpad-355-series-recovery-disks.-7z) | Archive.org | Create Recovery Media
-| 355C/CS | Windows 3.1 | English US | Floppy Image | KWADEUS | [Download](https://archive.org/details/OriginalThinkPadSoftwareBackupDiskettes1994) | Archive.org | Create Recovery Media
+| 355C/CS | Windows 3.1 | English US | Floppy Image |  | [Download](https://archive.org/details/thinkpad-355-series-recovery-disks.-7z) | Archive.org | Create Recovery Media - SYSLEVEL KWAGCUS
+| 355C/CS | Windows 3.1 | English US | Floppy Image |  | [Download](https://archive.org/details/OriginalThinkPadSoftwareBackupDiskettes1994) | Archive.org | Create Recovery Media - SYSLEVEL KWADEUS
 
 ### IBM ThinkPad 360
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
