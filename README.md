@@ -390,9 +390,9 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T61/R61 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | Create Recovery Media ISOs
 | T61/R61 | Windows XP Professional | German | CD/DVD Image | 43T8162 | [Download](https://archive.org/details/43T8162) | Archive.org | 
 | T61/R61 | Windows Vista Business x86 | German | CD/DVD Image | 43T8035 | [Download](https://archive.org/details/43T8035) | Archive.org | 
-| T61/R61 | Windows XP Professional | Russian | CD/DVD Image | 43T8177 | [Download]() | Archive.org | TODO UPLOAD - 2007
-| T61/R61 | Windows XP Professional | Russian | CD/DVD Image | 44Y3969 | [Download]() | Archive.org | TODO UPLOAD - 2008
-| T61/R61 | Windows XP Professional | Polish | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD -  Create Recovery Media ISOs
+| T61/R61 | Windows XP Professional | Russian | CD/DVD Image | 43T8177 | [Download](https://archive.org/details/43T8177) | Archive.org | 2007
+| T61/R61 | Windows XP Professional | Russian | CD/DVD Image | 44Y3969 | [Download](https://archive.org/details/44Y3969) | Archive.org | 2008
+| T61/R61 | Windows XP Professional | Polish | CD/DVD Image | | [Download](https://archive.org/details/TPTR61WINXPPROPOL) | Archive.org | Create Recovery Media ISOs
 
 ### IBM ThinkPad Transnote
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
