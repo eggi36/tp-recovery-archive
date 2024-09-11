@@ -98,9 +98,9 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad 570
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| 570 | Windows 95 & Windows 98 First Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 570 | Windows 95 & Windows 98 First Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/TP570ENRestore) | Archive.org | 
 | 570 | Windows NT 4.0 Workstation | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
-| 570 | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 570 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/TP570ENRestore) | Archive.org | 
 | 570 | Windows 95 & Windows 98 First Edition | German | CD/DVD Image | 00N4534 | [Download](https://archive.org/details/00N4534) | Archive.org |
 | 570E | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
 | 570E | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
