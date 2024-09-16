@@ -306,7 +306,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | T21 | Windows NT 4.0 Workstation & Windows 2000 Professional | German | CD/DVD Image | 23P1815 | [Download](https://archive.org/details/23P1815) or [Download](https://archive.org/details/ibm-thinkpad-t21-recovery-cds-ger) | Archive.org |  |
 | T21 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | 19K9949 | [Download](https://archive.org/details/ibm-think-pad-t21-recovery-w2k-nt40-english) | Archive.org | September 2000 |
-| T21 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image |  | [Download](https://archive.org/details/ibm-thinkpad-t-21-recovery-cds-english) | Archive.org | December 2000 |
+| T21 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | 23P3332  | [Download](https://archive.org/details/ibm-thinkpad-t-21-recovery-cds-english) | Archive.org | December 2000 |
 | T21 | Windows 98 Second Edition | English UK | CD/DVD Image | 23P2972 | [Download](https://archive.org/details/IBMThinkpadT21MT2647RestoreDisc) | Archive.org | |
 | T21 | Software Selections CD | German | CD/DVD Image | 23P1815 | [Download](https://archive.org/details/23P1815) | Archive.org |  |
 | T21 | Software Selections CD | English US | CD/DVD Image | 23P1846 | [Download](https://archive.org/details/ibm-thinkpad-t21-software-selections-windows-2000-nt) | Archive.org |  |
