@@ -51,6 +51,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | 380/380D | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad380rec) | Archive.org | 
+| 380/380D | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/4307384) | Archive.org | 
 | 380E/380ED | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-380-recovery-cd) | Archive.org | 
 | 380E/380ED | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/06J0945) | Archive.org |
 | 380XD | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-380-xd-recovery-cd) or [Download](https://archive.org/details/ibm-380-xd-380-z-cd-recovery-05-l-2198-windows-95)| Archive.org |
