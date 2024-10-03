@@ -92,7 +92,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | 560Z | Windows 98 First Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
 | 560Z | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TP560ZDERestore) | Archive.org | 
-| 560Z | Windows 95 | German | HDD-Image | | [Download]() | Archive.org | TODO: CLEANUP & UPLOAD
+| 560Z | Windows 95 | German | HDD-Image | | [Download](https://archive.org/details/TP560ZeClient) | Archive.org | IBM internal Installation
 | 560Z | Windows NT 4.0 Workstation | German | CD/DVD Image | | [Download](https://archive.org/details/28L2574) | Archive.org | 
 | 560Z | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TP560ZDERestore) | Archive.org |
 
