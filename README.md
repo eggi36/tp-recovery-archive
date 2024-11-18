@@ -138,6 +138,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | 730T | Windows 3.1 | English US | Floppy Dump | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 730T | Windows 3.1 | English US | HDD Image | | [Download](https://archive.org/details/ThinkPad730TRestoreImage) | Archive.org |
 
 ### IBM ThinkPad 755
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
