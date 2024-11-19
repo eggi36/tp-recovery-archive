@@ -422,6 +422,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | X21 | Windows 98 Second Edition | Japanese | CD/DVD Image | 27P1907 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| X21 | Software Selections CD | Korean | CD/DVD Image |  | [Download](https://archive.org/details/lg-ibm-tp-x-21) | Archive.org | LG OEM
 
 ### IBM ThinkPad X23
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
