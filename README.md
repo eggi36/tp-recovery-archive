@@ -187,6 +187,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | A20m | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-a20m-recovery-cd) | Archive.org | different from the one above | 
 | A20m | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/IBM_ThinkPad_A20M_Software_CD_v1.0_19K9013_2000_Eng) | Archive.org |  |
 | A20m | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download Disc1 (W2K)](https://archive.org/details/IBM_ThinkPad_A20M_Recovery_CD_v1.0_Windows_2000_19K9011_2000_Eng) \ [Download Disc2 (NT4)](https://archive.org/details/IBM_ThinkPad_A20M_Recovery_CD_v1.0_Windows_NT_19K9012_2000_Eng) | Archive.org | |
+| A20m | Windows 95 & Windows 98 Second Edition | German | CD/DVD Image | 19K9026 | [Download](https://archive.org/details/19K9026) | Archive.org |  |
+| A20m | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/19K9026) | Archive.org |  |
 | A20p | Windows 95 & Windows 98 Second Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 | A20p | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/tpada20p)| Archive.org | |
 | A20p | Windows NT 4.0 Workstation & Windows 2000 Professional | German | CD/DVD Image | | [Download](https://archive.org/details/TPA20PGR)| Archive.org | NT 4.0 disc is missing |
