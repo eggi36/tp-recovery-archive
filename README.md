@@ -4,7 +4,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad 235
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| 235 | Windows 98 First Edition | Japanese | CD/DVD Image | | [Download](https://archive.org/details/thinkpad_recovery_235) | Archive.org | corrupted |
+| 235 | Windows 98 First Edition | Japanese | CD/DVD Image | | [Download](https://archive.org/details/IBM_TP_235_RESTORE_BOOT_SW_IMAGES) | Archive.org | |
+| 235 | Software Selections CD | Japanese | CD/DVD Image | | [Download](https://archive.org/details/IBM_TP_235_RESTORE_BOOT_SW_IMAGES) | Archive.org | |
 
 ### IBM ThinkPad 240
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
