@@ -247,6 +247,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | i1200 | Windows Millennium Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ThinkPadi1200Recovery) | Archive.org | |
+| i1200 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/think-pad-i-1200-recovery) | Archive.org | |
 
 ### IBM ThinkPad i Series 1400
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
@@ -280,6 +281,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | R40 | Windows XP Professional | German | HPA Image | | [Download](https://archive.org/details/TPR40HPADERestore) | Archive.org | |
 | R40 | Windows XP Professional | Korean | HPA Image | | [Download](https://archive.org/details/THINKPAD-R40-KOR-XPSP1) | Archive.org | |
+| R40 | Windows XP Professional | Swedish | HPA Image | | [Download](https://archive.org/details/imgset.-001) | Archive.org | |
 | R40 | Windows XP Professional | English US | CD/DVD Image | 01R8517 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 | R40e | Windows XP Home Edition | German | HPA Image | | [Download](https://archive.org/details/TPR40eHPADERestore) | Archive.org | |
 
