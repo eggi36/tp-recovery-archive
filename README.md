@@ -1,6 +1,8 @@
 # ThinkPad Recovery Media Megalist
 List of available IBM/Lenovo ThinkPad Recovery Media
 
+## IBM Models
+
 ### IBM ThinkPad 235
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -521,3 +523,73 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Z61m/Z61p/Z61t | Windows XP Professional | English US | CD/DVD Image | 43T5713 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 | Z61m/Z61p/Z61t | Windows XP Professional | German | CD/DVD Image | 42J8657 | [Download](https://archive.org/details/42J8657) | Archive.org |
 | Z61m/Z61p/Z61t | Windows Vista Business x86 | English US | CD/DVD Image | 43T7354 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+
+## Lenovo Models
+
+### Lenovo ThinkPad L410/SL410/SL510/L510
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| L410/SL410/SL510/L510 | Windows 7 Professional x64 | German | CD/DVD Image | 76Y2711 | [Download](https://archive.org/details/76Y2711) | Archive.org | 
+
+### Lenovo ThinkPad L412/L512
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| L412/L512 | Windows 7 Home Premium x64 | English | CD/DVD Image | 76Y2546 | [Download](https://archive.org/details/76Y2546) | Archive.org | 
+
+### Lenovo ThinkPad L420/L520
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| L420/L520 | Windows 7 Professional x64 | English | CD/DVD Image | | [Download](https://archive.org/details/L420-Recovery-DVD-EN) | Archive.org | Create Recovery Media ISOs
+| L420/L520 | Windows 7 Professional x64 | Russian | CD/DVD Image | | [Download](https://archive.org/details/Lenovo_ThinkPad_L520) | Archive.org | Create Recovery Media ISOs
+
+### Lenovo ThinkPad SL300/SL400/SL500
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| SL300/SL400/SL500 | Windows XP Professional | English US | CD/DVD Image | | [Download]() | | TODO: UPLOAD - Create Recovery Media ISOs
+| SL300/SL400/SL500 | Windows XP Professional | German | CD/DVD Image | 46V2018 | [Download](https://archive.org/details/46V2018) | Archive.org | 
+| SL300/SL400/SL500 | Windows Vista Home Basic x86 SP1 | Korean | CD/DVD Image | | [Download](https://archive.org/details/THINKPAD_SL400_VISTAHBK) | Archive.org | Create Recovery Media ISOs
+| SL300/SL400/SL500 | Windows Vista Home Premium x86 SP1 | English US | CD/DVD Image | 46V2770 | [Download](https://archive.org/details/start-recovery) | Archive.org |
+| SL300/SL400/SL500 | Windows Vista Home Premium x86 SP1 | German | CD/DVD Image | 58Y2324 | [Download](https://archive.org/details/58Y2324) | Archive.org |
+| SL300/SL400/SL500 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | | [Download](https://archive.org/details/TPSLX00WVBX86US) | Archive.org | Create Recovery Media ISOs
+| SL300/SL400/SL500 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 46V0523 | [Download](https://archive.org/details/46V0523) | Archive.org |
+
+### Lenovo ThinkPad W700/W700ds
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| W700/W700ds | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/TPW700WXPUS) | Archive.org | Create Recovery Media ISOs
+| W700/W700ds | Windows XP Professional | German | CD/DVD Image | 46V1954 | [Download](https://archive.org/details/46V1954) | Archive.org | 
+| W700/W700ds | Windows Vista Business x64 SP1 | English US | CD/DVD Image | | [Download](https://archive.org/details/46V1503) | Archive.org | Create Recovery Media ISOs
+| W700/W700ds | Windows Vista Business x64 SP1 | German | CD/DVD Image | 46V1638 | [Download](https://archive.org/details/46V1638) | Archive.org | 
+| W700/W700ds | Windows 7 Professional x64  | English US | CD/DVD Image | | [Download](https://archive.org/details/TPW700W7PX64US) | Archive.org | Create Recovery Media ISOs
+
+### Lenovo ThinkPad W701/W701ds
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| W701/W701ds | Windows 7 Professional x64 | English | CD/DVD Image | 03W6413 | [Download](https://archive.org/details/03W6413) | Archive.org | 
+
+### Lenovo ThinkPad X200/X300/X301/X200s/X200 Tablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X200 | Windows XP Professional | German | CD/DVD Image | 46V1503 | [Download](https://archive.org/details/46V1503) | Archive.org | 
+| X200 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 46V1165 | [Download](https://archive.org/details/46V1165) | Archive.org | 
+| X200 Tablet | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/TPX200TWXPPUS) | Archive.org | Create Recovery Media ISOs 
+| X200 Tablet | Windows Vista Business x86 SP1 | German | CD/DVD Image | 46V2104 | [Download](https://archive.org/details/46V2104) | Archive.org | 
+| X200/X301/X200s/X200 Tablet | Windows 7 Professional x64 | French/German/Italian/English | CD/DVD Image | 58Y3906 | [Download](https://archive.org/details/58Y3906) | Archive.org | 
+| X200/X301/X200s/X200 Tablet | Windows 7 Professional x86 | English | CD/DVD Image | 58Y3888 | [Download](https://archive.org/details/58Y3888) | Archive.org | 
+| X200/X301/X200s/X200 Tablet | Windows 7 Professional x86 | Slovene | CD/DVD Image | | [Download](https://archive.org/details/lenovo-think-pad-x-301-windows-7-professional-32-bit-recovery-discs)| Archive.org | Create Recovery Media ISOs 
+| X300 | Windows XP Professional | German | CD/DVD Image | 44Y2684 | [Download](https://archive.org/details/44Y2684) | Archive.org | 
+| X301 | Windows XP Professional | German | CD/DVD Image | 46V1531 | [Download](https://archive.org/details/46V1531) | Archive.org | 
+| X301 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | | [Download](https://archive.org/details/TPX301WVBX86US) | Archive.org | Create Recovery Media ISOs
+| X301 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 58Y1675 | [Download](https://archive.org/details/58Y1675) | Archive.org | 
+
+### Lenovo ThinkPad X201/X201i/X201s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X201/X201i/X201s | Windows 7 Professional x64 | German | CD/DVD Image | 76Y2656 | [Download](https://archive.org/details/76Y2656) | Archive.org | 
+| X201/X201i/X201s | Windows 7 Professional x86 | French/German/Italian/English | CD/DVD Image | 76Y1115 | [Download](https://archive.org/details/76Y1115) | Archive.org | 
+| X201/X201i/X201s | Windows 7 Professional x86 | German | CD/DVD Image | 76Y2650 | [Download](https://archive.org/details/76Y2650) | Archive.org | 
+
+### Lenovo ThinkPad X201 Tablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X201 Tablet | Windows 7 Professional x64 | German | CD/DVD Image | 03W6361 | [Download](https://archive.org/details/03W6361) | Archive.org | 
