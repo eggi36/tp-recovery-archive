@@ -553,6 +553,28 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | SL300/SL400/SL500 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | | [Download](https://archive.org/details/TPSLX00WVBX86US) | Archive.org | Create Recovery Media ISOs
 | SL300/SL400/SL500 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 46V0523 | [Download](https://archive.org/details/46V0523) | Archive.org |
 
+### Lenovo ThinkPad T400s/T400/T500/R400/R500/W500
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| T400s/T400/W500/R400/R500 | Windows XP Professional | English US | CD/DVD Image | 58Y4731 | | Archive.org | TODO: UPLOAD
+| T400s | Windows XP Professional | French | CD/DVD Image | 58Y1839 | |  | 
+| T400s/T400/T500/R400/R500 | Windows XP Professional | English US | CD/DVD Image |  | |  | 
+| T400s/T400/T500/R400/R500 | Windows XP Professional | German | CD/DVD Image |  | |  | 
+| T400s | Windows Vista Business x64 SP1 | English | CD/DVD Image | 58Y2073 | |  |
+| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | English | CD/DVD Image | 46U9738 | |  | 
+| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | English | CD/DVD Image | 46V3016 | |  | 
+| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | Finnish/Swedish | CD/DVD Image |  | |  | Create Recovery Media ISOs
+| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 46U9742 | |  | 
+| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | German | CD/DVD Image |  | |  | Create Recovery Media ISOs
+| T400s/T400/T500/R400/R500 | Windows Vista Home Premium x86 SP1 | German | CD/DVD Image | 46V2996 | |  | 
+| T400s/T400/T500/R400/R500 | Windows Vista Ultimate x86 SP1 | English | CD/DVD Image | 46V3016 | |  | 
+| T400s/T400/T500/R400/R500 | Windows 7 Home Premium x86 | English | CD/DVD Image | 58Y3268 | |  | 
+| T400s/T400/T500/R400/R500 | Windows 7 Professional x64 | French/German/Italian/English | CD/DVD Image | 58Y3286 | |  | 
+| T400s/T400/T500/R400/R500 | Windows 7 Professional x64 | German | CD/DVD Image | 76Y2794 | |  | 
+| T400s/T400/T500/R400/R500 | Windows 7 Professional x86 | German | CD/DVD Image | 58Y3249 | |  | 
+| T400s/T400/T500/R400/R500 | Windows 7 Professional x86 | German | CD/DVD Image | 76Y2791 | |  | 
+
+
 ### Lenovo ThinkPad W700/W700ds
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
