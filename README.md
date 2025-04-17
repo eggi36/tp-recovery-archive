@@ -263,8 +263,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad i Series 1500
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| i1500 | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-i-1500-rec) | Archive.org | 1999-10 |
-| i1500 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-i-1500-rec) | Archive.org | |
+| i1500 | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-i-1500-rec) | Archive.org |  |
+| i1500 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-i-1500-rec) | Archive.org | 1999-10 |
 | i1500 | Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 | i1500 | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 2000-03 |
 
