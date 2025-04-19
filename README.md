@@ -545,7 +545,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad SL300/SL400/SL500
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| SL300/SL400/SL500 | Windows XP Professional | English US | CD/DVD Image | | [Download]() | | TODO: UPLOAD - Create Recovery Media ISOs
+| SL300/SL400/SL500 | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/TPSLX00WXPPROUS) | Archive.org | Create Recovery Media ISOs
 | SL300/SL400/SL500 | Windows XP Professional | German | CD/DVD Image | 46V2018 | [Download](https://archive.org/details/46V2018) | Archive.org | 
 | SL300/SL400/SL500 | Windows Vista Home Basic x86 SP1 | Korean | CD/DVD Image | | [Download](https://archive.org/details/THINKPAD_SL400_VISTAHBK) | Archive.org | Create Recovery Media ISOs
 | SL300/SL400/SL500 | Windows Vista Home Premium x86 SP1 | English US | CD/DVD Image | 46V2770 | [Download](https://archive.org/details/start-recovery) | Archive.org |
