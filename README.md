@@ -556,7 +556,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad T400s/T400/T500/R400/R500/W500
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| T400s/T400/W500/R400/R500 | Windows XP Professional | English US | CD/DVD Image | 58Y4731 | | Archive.org | TODO: UPLOAD
+| T400s/T400/W500/R400/R500 | Windows XP Professional | English US | CD/DVD Image | 58Y4731 | [Download](https://archive.org/details/58Y4731) | Archive.org | 
 | T400s | Windows XP Professional | French | CD/DVD Image | 58Y1839 | |  | 
 | T400s/T400/T500/R400/R500 | Windows XP Professional | English US | CD/DVD Image |  | |  | 
 | T400s/T400/T500/R400/R500 | Windows XP Professional | German | CD/DVD Image |  | |  | 
