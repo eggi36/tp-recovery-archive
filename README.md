@@ -558,15 +558,15 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | T400s/T400/W500/R400/R500 | Windows XP Professional | English US | CD/DVD Image | 58Y4731 | [Download](https://archive.org/details/58Y4731) | Archive.org | 
 | T400s | Windows XP Professional | French | CD/DVD Image | 58Y1839 | [Download](https://archive.org/details/58Y1839) | Archive.org | 
-| T400s/T400/T500/R400/R500 | Windows XP Professional | English US | CD/DVD Image |  | |  | 
-| T400s/T400/T500/R400/R500 | Windows XP Professional | German | CD/DVD Image |  | |  | 
-| T400s | Windows Vista Business x64 SP1 | English | CD/DVD Image | 58Y2073 | |  |
+| T400s/T400/T500/R400/R500 | Windows XP Professional | English US | CD/DVD Image | 46V1494 | [Download](https://archive.org/details/lenovo_windows_xp_conversion_kit) | Archive.org | 
+| T400s/T400/T500/R400/R500 | Windows XP Professional | German | CD/DVD Image | 46V1476 | [Download](https://archive.org/details/46V1476) | Archive.org | 
+| T400s | Windows Vista Business x64 SP1 | English | CD/DVD Image | 58Y2073 | [Download](https://archive.org/details/thinkVantage5) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | English | CD/DVD Image | 46U9738 | [Download](https://archive.org/details/46U9738) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | English | CD/DVD Image | 46V3016 | [Download](https://archive.org/details/46V3016) | Archive.org | 
-| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | Finnish/Swedish | CD/DVD Image |  | |  | Create Recovery Media ISOs
+| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | Finnish/Swedish | CD/DVD Image |  | [Download](https://archive.org/details/lenovo_thinkpad_r500_recovery_restore) | Archive.org | Create Recovery Media ISOs
 | T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 46U9742 | [Download](https://archive.org/details/46U9742) | Archive.org | 
-| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | German | CD/DVD Image |  | |  | Create Recovery Media ISOs
-| T400s/T400/T500/R400/R500 | Windows Vista Home Premium x86 SP1 | German | CD/DVD Image | 46V2996 | |  | 
+| T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | German | CD/DVD Image | | [Download](https://archive.org/details/TPTRX00WVBX86GR) | Archive.org | Create Recovery Media ISOs
+| T400s/T400/T500/R400/R500 | Windows Vista Home Premium x86 SP1 | German | CD/DVD Image | 46V2996 | [Download](https://archive.org/details/46V2996) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows Vista Ultimate x86 SP1 | English | CD/DVD Image | 46V3016 | [Download](https://archive.org/details/46V3016) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows 7 Home Premium x86 | English | CD/DVD Image | 58Y3268 | [Download](https://archive.org/details/58Y3268) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows 7 Professional x64 | French/German/Italian/English | CD/DVD Image | 58Y3286 | [Download](https://archive.org/details/58Y3286) | Archive.org | 
