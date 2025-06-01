@@ -589,6 +589,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | W701/W701ds | Windows 7 Professional x64 | English | CD/DVD Image | 03W6413 | [Download](https://archive.org/details/03W6413) | Archive.org | 
 
+### Lenovo ThinkPad X131e
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X131e | Windows 7 Professional x64 SP1 | English | CD/DVD Image | 04T5246 | [Download](https://archive.org/details/lenovo-thinkpad-x131e-recovery-media) | Archive.org | 
+
 ### Lenovo ThinkPad X200/X300/X301/X200s/X200 Tablet
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
