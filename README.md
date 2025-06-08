@@ -355,7 +355,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad T40
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| T40 | Windows XP Professional | English US | CD/DVD Image | 01R8046 | [Download](c) | Archive.org |
+| T40 | Windows XP Professional | English US | CD/DVD Image | 01R8046 | [Download](https://archive.org/details/IBMThinkpadT4041RecoveryCDs) | Archive.org |
 | T40 | Windows XP Professional | German | CD/DVD Image | 01R8051 | [Download](https://archive.org/details/t40_recovery_german) | Archive.org |
 
 ### IBM ThinkPad T41/T41p/R50/R50e/R50p
