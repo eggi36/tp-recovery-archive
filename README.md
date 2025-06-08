@@ -95,7 +95,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 560X | Windows 95 | English UK | CD/DVD Image | 05L1327 | [Download](https://archive.org/details/etukfa-0) | Archive.org | 
 | 560Z | Windows 98 First Edition | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
 | 560Z | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TP560ZDERestore) | Archive.org | 
-| 560Z | Windows 95 | German | HDD-Image | | [Download](https://archive.org/details/TP560ZeClient) | Archive.org | IBM internal Installation
+| 560Z | Windows 95 | English | HDD-Image | | [Download](https://archive.org/details/TP560ZeClient) | Archive.org | IBM internal Installation
 | 560Z | Windows NT 4.0 Workstation | German | CD/DVD Image | | [Download](https://archive.org/details/28L2574) | Archive.org | 
 | 560Z | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TP560ZDERestore) | Archive.org |
 
@@ -155,6 +155,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | 760C/CD | Windows 3.1 & OS/2 | German | CD/DVD Image | | [Download](https://archive.org/details/TP760CDDERestore) | Archive.org |
 | 760E/ED/EL | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-760-ed-recovery) | Archive.org |
+| 760EL | Windows 95 | English | HDD-Image | | [Download](https://archive.org/details/tp760eleClient) | Archive.org | IBM internal Installation
 | 760XD | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad760xd) | Archive.org |
 | 760XL | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/760-xl-recovery-cd-win-95) | Archive.org |
 | 760XL | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/DRGRFA0) | Archive.org |
