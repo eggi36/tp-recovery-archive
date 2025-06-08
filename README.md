@@ -87,7 +87,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad 510
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| 510CS | Windows 3.1 | German | HDD-Image | | [Download]() | Archive.org | TODO: CLEANUP & UPLOAD
+| 510CS | Windows 3.1 | German | HDD-Image | | [Download](https://archive.org/details/TP510CSWIN31GR) | Archive.org |
 
 ### IBM ThinkPad 560
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
