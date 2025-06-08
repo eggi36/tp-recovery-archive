@@ -155,7 +155,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | 760C/CD | Windows 3.1 & OS/2 | German | CD/DVD Image | | [Download](https://archive.org/details/TP760CDDERestore) | Archive.org |
 | 760E/ED/EL | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-760-ed-recovery) | Archive.org |
-| 760EL | Windows 95 | English | HDD-Image | | [Download](https://archive.org/details/tp760eleClient) | Archive.org | IBM internal Installation
+| 760EL | Windows 95 | English | HDD-Image | | [Download](https://archive.org/details/tp760eleclient) | Archive.org | IBM internal Installation
 | 760XD | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad760xd) | Archive.org |
 | 760XL | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/760-xl-recovery-cd-win-95) | Archive.org |
 | 760XL | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/DRGRFA0) | Archive.org |
