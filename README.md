@@ -81,6 +81,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 390E | Windows 95 & Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TP390EDERestore) | Archive.org | 
 | 390E | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TP390EDERestore) | Archive.org |
 | 390E | Windows 95 & Windows 98 First Edition | Dutch | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 390E | Windows 95 & Windows 98 First Edition | Norwegion | CD/DVD Image | | [Download Disc 1](https://archive.org/details/28-l-3422) [Download Disc 2](https://archive.org/details/28-l-3421)| Archive.org | 
 | 390X | Windows 95 & Windows 98 Second Edition | English UK | CD/DVD Image | | [Download Disc 1](https://archive.org/details/TP390X-Win98) [Download Disc 2](https://archive.org/details/TP390X-Win95)| Archive.org |
 | 390X | Software Selections CD | English UK | CD/DVD Image | | [Download](https://archive.org/details/TP390X-SoftwareSelections) | Archive.org |
 
