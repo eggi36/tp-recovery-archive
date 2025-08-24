@@ -924,11 +924,6 @@ coming soon
 |--|--|--|--|--|--|--|--|
 | X230/X230i/X230 Tablet/X230i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EV729 | [Download](https://archive.org/details/0EV729) | Archive.org | 
 
-### Lenovo ThinkPad X230/X230i/X230 Tablet/X230i Tablet
-| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
-|--|--|--|--|--|--|--|--|
-| X230/X230i/X230 Tablet/X230i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EV729 | [Download](https://archive.org/details/0EV729) | Archive.org | 
-
 ### Lenovo ThinkPad X240s/X240
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
