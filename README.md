@@ -626,3 +626,50 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | X201 Tablet | Windows 7 Professional x64 | German | CD/DVD Image | 03W6361 | [Download](https://archive.org/details/03W6361) | Archive.org | 
+
+### Lenovo ThinkPad X220/X220i/X220 Tablet/X220i Tablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Pressional | English | CD/DVD Image | | [Download]() | Archive.org | TODO UPLOAD - Create Recovery Media ISOs
+| X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Home Premium x64 SP1 | German | CD/DVD Image | 04T3583 | [Download](https://archive.org/details/04T3583) | Archive.org | 
+| X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T2230 | [Download](https://archive.org/details/04T2230) | Archive.org | 
+
+### Lenovo ThinkPad X230/X230i/X230 Tablet/X230i Tablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X230/X230i/X230 Tablet/X230i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EV729 | [Download](https://archive.org/details/0EV729) | Archive.org | 
+
+### Lenovo ThinkPad X230/X230i/X230 Tablet/X230i Tablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X230/X230i/X230 Tablet/X230i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EV729 | [Download](https://archive.org/details/0EV729) | Archive.org | 
+
+### Lenovo ThinkPad X240s/X240
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X240s/X240 | Windows 8 Pro x64 | English | CD/DVD Image | 0EW177 | [Download](https://archive.org/details/0EW177) | Archive.org | 
+| X240s/X240 | Windows 8.1 Pro x64 | German | CD/DVD Image | 0HR573 | [Download](https://archive.org/details/0HR573) | Archive.org | 
+
+### Lenovo ThinkPad X250
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X250 | Windows 8.1 Pro x64 | English | CD/DVD Image | 0LD082 | [Download](https://archive.org/details/0LD082) | Archive.org | 
+| X250 | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 01FY979 | [Download](https://archive.org/details/01FY979) | Archive.org | 
+| X250 | Windows 10 Pro x64 (1607) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HU940 | [Download](https://archive.org/details/01HU940) | Archive.org | 
+| X250 | Windows 7 Professional x64 SP1 | Korean | USB Recovery Drive | | [Download](https://archive.org/details/tp-x250-w7sp1-korean) | Archive.org | Create Recovery Media - Norton Ghost File
+
+### Lenovo ThinkPad X260
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X260 | Windows 10 Home x64 (1703) | English/Danish/Finnish/Norwegian/Swedish | USB Recovery Drive | 01HP362 | [Download](https://archive.org/details/01HP362) | Archive.org | 
+| X260 | Windows 10 Pro x64 (1703) | French | USB Recovery Drive | 01HP379 | [Download](https://archive.org/details/tp260x_recovery) | Archive.org | 
+| X260 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP395 | [Download](https://archive.org/details/01HP395) | Archive.org | 
+| X260 | Windows 10 Pro x64 (1703) | English/Danish/Finnish/Norwegian/Swedish | USB Recovery Drive | 01HP396 | [Download](https://archive.org/details/01HP396) | Archive.org | 
+
+### Lenovo ThinkPad X270
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X270 | Windows 10 Pro x64 (1809) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U16710 | [Download](https://archive.org/details/5R30U16710) | Archive.org | 
+| X270 | Windows 10 Pro x64 (1809) | English/Danish/Finnish/Norwegian/Swedish | USB Recovery Drive | 5R30U16712 | [Download](https://archive.org/details/5R30U16712) | Archive.org | 
+
+
