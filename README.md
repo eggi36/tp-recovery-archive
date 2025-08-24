@@ -739,14 +739,71 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | W701/W701ds | Windows 7 Professional x64 | English | CD/DVD Image | 03W6413 | [Download](https://archive.org/details/03W6413) | Archive.org | 
 
+### Lenovo ThinkPad X1 Carbon Gen1
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Carbon Gen1 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 00EV069 | [Download](https://archive.org/details/00EV069) | Archive.org | 
+| X1 Carbon Gen1 | Windows 8 Pro x64 | German | CD/DVD Image | 0EU985 | [Download](https://archive.org/details/0EU985) | Archive.org | 
 
+### Lenovo ThinkPad X1 Carbon Gen3
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Carbon Gen3 | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 01FX597 | [Download](https://archive.org/details/01FX597) | Archive.org | 
 
+### Lenovo ThinkPad X1 Carbon Gen4/X1 Yoga Gen1
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Carbon Gen4/X1 Yoga Gen1 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR680 | [Download](https://archive.org/details/01HR680) | Archive.org | 
 
+### Lenovo ThinkPad X1 Carbon Gen5
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Carbon Gen5 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02ED732 | [Download](https://archive.org/details/02ED732) | Archive.org | 
 
+### Lenovo ThinkPad X1 Carbon Gen6
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Carbon Gen6 | Windows 10 Pro x64 (1903) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U19362 | [Download](https://archive.org/details/5R30U19362) | Archive.org | 
 
+### Lenovo ThinkPad X1 Carbon Gen7/X1 Yoga Gen4
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Carbon Gen7/X1 Yoga Gen4 | Windows 10 Pro x64 (2004) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30W06971 | [Download](https://archive.org/details/5R30W06971) | Archive.org | 
 
+### Lenovo ThinkPad X1 Extreme Gen1/P1 Gen1
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Extreme Gen1/P1 Gen1 | Windows 10 Pro x64 (1903) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U19388 | [Download](https://archive.org/details/5R30U19388) | Archive.org | 
 
+### Lenovo ThinkPad X1 Fold Gen1
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Fold Gen1 | Windows 10 Pro x64 (21H1) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R31B27131 | [Download](https://archive.org/details/5R31B27131) | Archive.org | 
 
+### Lenovo ThinkPad X1 Tablet Gen1
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Tablet Gen1 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP201 | [Download](https://archive.org/details/01HP201) | Archive.org | 
+
+### Lenovo ThinkPad X1 Tablet Gen2
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Tablet Gen2 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02CC744 | [Download](https://archive.org/details/02CC744) | Archive.org | 
+
+### Lenovo ThinkPad X1 Tablet Gen3
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Tablet Gen3 | Windows 10 Pro x64 (2004) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R31B30398 | [Download](https://archive.org/details/5R31B30398) | Archive.org | 
+
+### Lenovo ThinkPad X1 Yoga Gen2
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Yoga Gen2 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02EE195 | [Download](https://archive.org/details/02EE195) | Archive.org | 
+
+### Lenovo ThinkPad X1 Yoga Gen3
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Yoga Gen3 | Windows 10 Pro x64 (1903) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U19552 | [Download](https://archive.org/details/5R30U19552) | Archive.org | 
 
 ### Lenovo ThinkPad X131e
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
