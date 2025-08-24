@@ -583,7 +583,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | E420/E425/E520/E525 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T2934 | [Download](https://archive.org/details/04T2934) | Archive.org | 
 
-### Lneovo ThinkPad E455/E555/E450/E550/E550c/E450c
+### Lenovo ThinkPad E455/E555/E450/E550/E550c/E450c
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | E455/E555/E450/E550/E550c/E450c | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 01FX089 | [Download](https://archive.org/details/01FX089) | Archive.org | 
@@ -599,7 +599,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | E470/E570/E470C/E570c | Windows 10 Pro x64 (1709) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HN560 | [Download](https://archive.org/details/01HN560) | Archive.org | 
 
-### Lneovo ThinkPad E475/E575
+### Lenovo ThinkPad E475/E575
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | E475/E575 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02CD762 | [Download](https://archive.org/details/02CD762) | Archive.org | 
