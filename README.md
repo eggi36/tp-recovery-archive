@@ -725,6 +725,71 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T400s/T400/T500/R400/R500 | Windows 7 Professional x86 | German | CD/DVD Image | 58Y3249 | [Download](https://archive.org/details/58Y3249) | Archive.org | 2009-09
 | T400s/T400/T500/R400/R500 | Windows 7 Professional x86 | German | CD/DVD Image | 76Y2791 | [Download](https://archive.org/details/76Y2791) | Archive.org | 2010-04
 
+### Lenovo ThinkPad T410s/T410/T510/W510
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
+### Lenovo ThinkPad T420
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+
+### Lenovo ThinkPad T420s/T520/W520
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+
+### Lenovo ThinkPad T430/T430s/T430u/T530/W530/X230/X230Tablet/X230i/X230iTablet
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
+### Lenovo ThinkPad T431s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
+### Lenovo ThinkPad T440/T440p/T440s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+
+### Lenovo ThinkPad T450/T450s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+
+### Lenovo ThinkPad T460/T460p/T460s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
+### Lenovo ThinkPad T470/25/T470p/T470s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
+### Lenovo ThinkPad T480
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+
+### Lenovo ThinkPad T540p/W540/W541
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
+### Lenovo ThinkPad T550/W550s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
+### Lenovo ThinkPad T560/P50s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
+### Lenovo ThinkPad T570/P51s
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+coming soon
+
 ### Lenovo ThinkPad W700/W700ds
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
