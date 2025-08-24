@@ -378,6 +378,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T42/T42p/R51 | Windows XP Professional | German | CD/DVD Image | 24R7712 | [Download](https://archive.org/details/24R7687/24R7712) | Archive.org |
 | T42/T42p/R51 | Windows XP Professional | English US | CD/DVD Image | 24R7684 | [Download](https://archive.org/details/thinkpad-t42-product-recovery-cd) or [Download](https://archive.org/details/Disc2of7January2005PN24R7734XPPSP2ENFRUPN24R7684) | Archive.org | 2005-01
 | T42 | Windows XP Professional | English US | CD/DVD Image |  | [Download](https://archive.org/details/ibm-t42-recovery-cds) | Archive.org | 2005-03 - Create Recovery Media ISOs
+| T42 | Windows XP Professional | Chinese Simplified | CD/DVD Image |  | [Download (7 CDs)](https://archive.org/details/ibm-thinkpad-t42-rrwithrr-bootable-7cd-sc) or [Download (1 DVD)](https://archive.org/details/ibm-thinkpad-t42-rrwithrr-bootable-dvd-sc) | Archive.org | Create Recovery Media ISOs
 
 ### IBM ThinkPad T43/T43p/R52
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
