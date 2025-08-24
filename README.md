@@ -733,10 +733,12 @@ coming soon
 ### Lenovo ThinkPad T420
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+coming soon
 
 ### Lenovo ThinkPad T420s/T520/W520
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+coming soon
 
 ### Lenovo ThinkPad T430/T430s/T430u/T530/W530/X230/X230Tablet/X230i/X230iTablet
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -751,10 +753,12 @@ coming soon
 ### Lenovo ThinkPad T440/T440p/T440s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+coming soon
 
 ### Lenovo ThinkPad T450/T450s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+coming soon
 
 ### Lenovo ThinkPad T460/T460p/T460s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -769,6 +773,7 @@ coming soon
 ### Lenovo ThinkPad T480
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+coming soon
 
 ### Lenovo ThinkPad T540p/W540/W541
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -789,6 +794,11 @@ coming soon
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 coming soon
+
+### Lenovo ThinkPad Tablet 2
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| Tablet 2 | Windows 8 Pro x86 | English/Danish/Finnish/Norwegian/Swedish | USB Recovery Drive | 0B86005 | [Download](https://archive.org/details/0B86005) | Archive.org | 
 
 ### Lenovo ThinkPad W700/W700ds
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
