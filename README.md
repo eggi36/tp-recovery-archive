@@ -532,6 +532,88 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 
 ## Lenovo Models
 
+### Lenovo ThinkPad 10 Gen2
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 10 Gen2 | Windows 10 Pro x64 (1511) | English/French/German/Italian/Dutch | USB Recovery Drive | 01AU703 | [Download](https://archive.org/details/01AU703) | Archive.org | 
+
+### Lenovo ThinkPad 11e Gen3/Yoga 11e Gen3
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 11e Gen3/Yoga 11e Gen3 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR843 | [Download](https://archive.org/details/01HR843) | Archive.org | 
+
+### Lenovo ThinkPad 13 Gen1/S2 Gen1
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 13 Gen1/S2 Gen1 | Windows 10 Home x64 (1709) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP737 | [Download](https://archive.org/details/01HP737) | Archive.org | 
+| 13 Gen1/S2 Gen1 | Windows 10 Pro x64 (1709) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP761 | [Download](https://archive.org/details/01HP761) | Archive.org | 
+
+### Lenovo ThinkPad 13 Gen2/S2 Gen2
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 13 Gen2/S2 Gen2 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02CD680 | [Download](https://archive.org/details/02CD680) | Archive.org | 
+
+### Lenovo ThinkPad A275
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| A275 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02EE657 | [Download](https://archive.org/details/02EE657) | Archive.org | 
+
+### Lenovo ThinkPad A285
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| A285 | Windows 10 Pro x64 (1903) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U19142 | [Download](https://archive.org/details/5R30U19142) | Archive.org | 
+
+### Lenovo ThinkPad A475
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| A475 | Windows 10 Pro x64 (1809) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U17123 | [Download](https://archive.org/details/5R30U17123) | Archive.org | 
+
+### Lenovo ThinkPad A485
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| A485 | Windows 10 Pro x64 (1903) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U19197 | [Download](https://archive.org/details/5R30U19197) | Archive.org | 
+
+### Lenovo ThinkPad E330/E335
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| E330/E335 | Windows 8 Pro x64 | German | CD/DVD Image | 04Y9820 | [Download](https://archive.org/details/04Y9820) | Archive.org | 
+
+### Lenovo ThinkPad E420/E425/E520/E525
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| E420/E425/E520/E525 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T2934 | [Download](https://archive.org/details/04T2934) | Archive.org | 
+
+### Lneovo ThinkPad E455/E555/E450/E550/E550c/E450c
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| E455/E555/E450/E550/E550c/E450c | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 01FX089 | [Download](https://archive.org/details/01FX089) | Archive.org | 
+| E455/E555/E450/E550/E550c/E450c | Windows 10 Pro x64 (1607) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HU596 | [Download](https://archive.org/details/01HU596) | Archive.org | 
+
+### Lenovo ThinkPad E465/E565/E460/E560/E560c
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| E465/E565/E460/E560/E560c | Windows 10 Pro x64 (1607) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HU540 | [Download](https://archive.org/details/01HU540) | Archive.org | 
+
+### Lenovo ThinkPad E470/E570/E470C/E570c
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| E470/E570/E470C/E570c | Windows 10 Pro x64 (1709) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HN560 | [Download](https://archive.org/details/01HN560) | Archive.org | 
+
+### Lneovo ThinkPad E475/E575
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| E475/E575 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02CD762 | [Download](https://archive.org/details/02CD762) | Archive.org | 
+
+### Lenovo ThinkPad Edge 15
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| Edge 15 | Windows 7 Professional x64 | English | CD/DVD Image | | [Download](https://archive.org/details/TPE15W7PX64US) | Archive.org | Create Recovery Media ISOs
+
+### Lenovo ThinkPad Helix (2013)
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| Helix (2013) | Windows 8 Pro x64 | German | CD/DVD Image | 0EU500 | [Download](https://archive.org/details/0EU500) | Archive.org | 
+
 ### Lenovo ThinkPad L410/SL410/SL510/L510
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -547,6 +629,69 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | L420/L520 | Windows 7 Professional x64 | English | CD/DVD Image | | [Download](https://archive.org/details/L420-Recovery-DVD-EN) | Archive.org | Create Recovery Media ISOs
 | L420/L520 | Windows 7 Professional x64 | Russian | CD/DVD Image | | [Download](https://archive.org/details/Lenovo_ThinkPad_L520) | Archive.org | Create Recovery Media ISOs
+
+### Lenovo ThinkPad L450
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| L450 | Windows 10 Pro x64 (1607) | English/French/German/Italian/Dutch | USB Recovery Drive | 01FX153 | [Download](https://archive.org/details/01FX153) | Archive.org | 
+
+### Lenovo ThinkPad L460/L560
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| L460 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR265 | [Download](https://archive.org/details/01HR265) | Archive.org | 
+| L560 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR377 | [Download](https://archive.org/details/01HR377) | Archive.org | 
+
+### Lenovo ThinkPad L470/L570
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| L470 | Windows 10 Pro x64 (1809) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U16207 | [Download](https://archive.org/details/5R30U16207) | Archive.org | 
+| L570 | Windows 10 Pro x64 (1809) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U16262 | [Download](https://archive.org/details/5R30U16262) | Archive.org | 
+
+### Lenovo ThinkPad L480/L580
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| L480/L580 | Windows 10 Pro x64 (1903) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U18796 | [Download](https://archive.org/details/5R30U18796) | Archive.org | 
+
+### Lenovo ThinkPad P50/P70
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| P50 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | | [Download](https://archive.org/details/TPP50W7PX64DE) | Archive.org | Create Recovery Media ISOs
+| P50/P70 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02EG546 | [Download](https://archive.org/details/02EG546) | Archive.org | 
+
+### Lenovo ThinkPad P51/P71
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| P51/P71 | Windows 10 Pro x64 (1909) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30W06214 | [Download](https://archive.org/details/5R30W06214) | Archive.org | 
+
+### Lenovo ThinkPad S1 Yoga 12
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| S1 Yoga 12 | Windows 8.1 Pro x64 | English | USB Recovery Drive | 01FY538 | [Download](https://archive.org/details/01FY538) | Archive.org | 
+| S1 Yoga 12 | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 01FY539 | [Download](https://archive.org/details/01FY539) | Archive.org | 
+| S1 Yoga 12 | Windows 10 Pro x64 (1511) | English/French/German/Italian/Dutch | USB Recovery Drive | 01FY493 | [Download](https://archive.org/details/01FY493) | Archive.org | 
+
+### Lenovo ThinkPad S1 Yoga 260
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| S1 Yoga 260 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR790 | [Download](https://archive.org/details/01HR790) | Archive.org | 
+
+### Lenovo ThinkPad S3/P40/Yoga 460/Yoga 14
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| S3 Yoga 14 | Windows 8.1 Pro x64 | English | USB Recovery Drive | 01FY648 | [Download](https://archive.org/details/01FY648) | Archive.org | 
+| S3 Yoga 14 | Windows 10 Home x64 (1511) | English/French/German/Italian/Dutch | USB Recovery Drive | 01FY568 | [Download](https://archive.org/details/01FY568) | Archive.org | 
+| S3 Yoga 14 | Windows 10 Pro x64 (1511) | English/French/German/Italian/Dutch | USB Recovery Drive | 01FY603 | [Download](https://archive.org/details/01FY603) | Archive.org | 
+| S3/P40/Yoga 460/Yoga 14 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR322 | [Download](https://archive.org/details/01HR322) | Archive.org | 
+
+### Lenovo ThinkPad S5 Yoga 15
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| S5 Yoga 15 | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 01FY768 | [Download](https://archive.org/details/01FY768) | Archive.org | 
+
+### Lenovo ThinkPad S240 Yoga 
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| S240 Yoga | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 0EW400 | [Download](https://archive.org/details/Lenovo_Yoga_S1) | Archive.org | 
 
 ### Lenovo ThinkPad SL300/SL400/SL500
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -580,7 +725,6 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T400s/T400/T500/R400/R500 | Windows 7 Professional x86 | German | CD/DVD Image | 58Y3249 | [Download](https://archive.org/details/58Y3249) | Archive.org | 2009-09
 | T400s/T400/T500/R400/R500 | Windows 7 Professional x86 | German | CD/DVD Image | 76Y2791 | [Download](https://archive.org/details/76Y2791) | Archive.org | 2010-04
 
-
 ### Lenovo ThinkPad W700/W700ds
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -594,6 +738,15 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | W701/W701ds | Windows 7 Professional x64 | English | CD/DVD Image | 03W6413 | [Download](https://archive.org/details/03W6413) | Archive.org | 
+
+
+
+
+
+
+
+
+
 
 ### Lenovo ThinkPad X131e
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
