@@ -728,7 +728,15 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad T410s/T410/T510/W510
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T410s/T410/T510/W510 | Windows 7 Professional x64 | English | CD/DVD Image | 76Y2206 | [Download](https://archive.org/details/t-410-510-w-7-p-x-64-2-002) | Archive.org | 
+| T410s/T410/T510/W510 | Windows 7 Professional x64 | German | CD/DVD Image | 76Y2216 | [Download](https://archive.org/details/76Y2216) | Archive.org | 
+| T410s/T410/T510/W510 | Windows 7 Professional x64 SP1 | English | CD/DVD Image | 04T1589 | [Download](https://archive.org/details/ThinkPadT410Recovery) | Archive.org | 
+| T410s/T410/T510/W510 | Windows 7 Professional x64 SP1 | Finnish/Swedish/English | CD/DVD Image | 04T1591 | [Download](https://archive.org/details/lenovo-t410s-thinkpad-recovery-media) | Archive.org | 
+| T410s/T410/T510/W510 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T1571 | [Download](https://archive.org/details/04T1571) | Archive.org | 
+| T410s/T410/T510/W510 | Windows 7 Professional x86 | French/German/Italian/English | CD/DVD Image | 58Y4333 | [Download](https://archive.org/details/58Y4333) | Archive.org | 
+| T410s/T410/T510/W510 | Windows 7 Professional x86 | German | CD/DVD Image | 58Y4311 | [Download](https://archive.org/details/58Y4311) | Archive.org | 
+| T410s/T410/T510/W510 | Windows XP Professional | English | CD/DVD Image |  | [Download](https://archive.org/details/TPTRX10WXPPUS) | Archive.org | Create Recovery Media ISOs
+| T410s/T410/T510/W510 | Windows XP Professional | German | CD/DVD Image | 03W6008 | [Download](https://archive.org/details/03W6008) | Archive.org | 
 
 ### Lenovo ThinkPad T420/T420s/T520/W520
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
