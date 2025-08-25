@@ -758,42 +758,53 @@ coming soon
 ### Lenovo ThinkPad T450/T450s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T450/T450s | Windows 8.1 Pro x64 | English | USB Recovery Drive | 0UV309 | [Download](https://archive.org/details/0UV309) | Archive.org | 
+| T450/T450s | Windows 10 Pro x64 (1607) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HU771 | [Download](https://archive.org/details/01HU771) | Archive.org | 
 
 ### Lenovo ThinkPad T460/T460p/T460s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T460 | Windows 7 Professional x64 SP1 | English | CD/DVD Image | 01FV077 | [Download](https://archive.org/details/lenovo-t-460-win-7-restore-disc) | Archive.org | 
+| T460 | Windows 7 Professional x64 SP1 | Korean | CD/DVD Image |  | [Download](https://archive.org/details/tp-t460-w7x64-usbkey) | Archive.org | Create Recovery Media - Norton Ghost File
+| T460 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP308 | [Download](https://archive.org/details/01HP308) | Archive.org | 
+| T460p | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR489 | [Download](https://archive.org/details/01HR489) | Archive.org | 
+| T460s | Windows 10 Pro x64 (1703) | English | USB Recovery Drive | 01HP087 | [Download](https://archive.org/details/01HP087) | Archive.org | 
+| T460s | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP088 | [Download](https://archive.org/details/01HP088) | Archive.org | 
 
 ### Lenovo ThinkPad T470/25/T470p/T470s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T470/25 | Windows 10 Pro x64 (1809) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U17258 | [Download](https://archive.org/details/5R30U17258) | Archive.org | 
+| T470s | Windows 10 Pro x64 (1809) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U17313 | [Download](https://archive.org/details/5R30U17313) | Archive.org | 
+| T470p | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02CD517 | [Download](https://archive.org/details/02CD517) | Archive.org | 
 
 ### Lenovo ThinkPad T480
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T480 | Windows 10 Pro x64 (1903) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U19662 | [Download](https://archive.org/details/5R30U19662) | Archive.org | 
 
 ### Lenovo ThinkPad T540p/W540/W541
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T540p/W540 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0HX940 | [Download](https://archive.org/details/0HX940) | Archive.org | 
+| T540p/W540/W541 | Windows 8.1 Pro x64 | English/Danish/Finnish/Norwegian/Swedish | USB Recovery Drive | 01FY209 | [Download](https://archive.org/details/01FY209) | Archive.org | 
 
 ### Lenovo ThinkPad T550/W550s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T550/W550s | Windows 8.1 Pro x64 | English | USB Recovery Drive | 01FY318 | [Download](https://archive.org/details/01FY318) | Archive.org | 
+| T550/W550s | Windows 8.1 Pro x64 | English/Danish/Finnish/Norwegian/Swedish | USB Recovery Drive | 01FY319 | [Download](https://archive.org/details/01FY319) | Archive.org | 
+| T550/W550s | Windows 10 Pro x64 (1511) | English/French/German/Italian/Dutch | USB Recovery Drive | 01FY273 | [Download](https://archive.org/details/01FY273) | Archive.org | 
 
 ### Lenovo ThinkPad T560/P50s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T560/P50s | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP868 | [Download](https://archive.org/details/01HP868) | Archive.org | 
 
 ### Lenovo ThinkPad T570/P51s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T570/P51s | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02CD847 | [Download](https://archive.org/details/02CD847) | Archive.org | 
 
 ### Lenovo ThinkPad Tablet 2
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
