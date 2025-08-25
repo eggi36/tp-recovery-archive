@@ -730,15 +730,13 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 coming soon
 
-### Lenovo ThinkPad T420
+### Lenovo ThinkPad T420/T420s/T520/W520
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
-
-### Lenovo ThinkPad T420s/T520/W520
-| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
-|--|--|--|--|--|--|--|--|
-coming soon
+| T420 | Windows 7 Professional x64 SP1 | English | CD/DVD Image | 04T1349 | [Download](https://archive.org/details/0A407072.1) | Archive.org | 
+| T420s/T520/W520 | Windows 7 Professional x64 | English/French/German/Italian/Dutch | CD/DVD Image | 03W7844 | [Download](https://archive.org/details/03W7844) | Archive.org | 
+| T420s/T520/W520 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T1414 | [Download](https://archive.org/details/04T1414) | Archive.org | 
+| T420s/T520/W520 | Windows 7 Professional x64 SP1 | English | USB Recovery Drive | | [Download](https://archive.org/details/w-520-recovery.-7z_202112) | Archive.org | Create Recovery Media
 
 ### Lenovo ThinkPad T430/T430s/T430u/T530/W530/X230/X230Tablet/X230i/X230iTablet
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -748,12 +746,16 @@ coming soon
 ### Lenovo ThinkPad T431s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T431s | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EU607 | [Download](https://archive.org/details/0EU607) | Archive.org | 
+| T431s | Windows 8 Pro x64 | English | CD/DVD Image | 0EU669 | [Download](https://archive.org/details/0EU669) | Archive.org | 
 
 ### Lenovo ThinkPad T440/T440p/T440s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T440/T440s | Windows 7 Professional x64 SP1 | Chinese Simplified | CD/DVD Image | 04Y8367 | [Download](https://archive.org/details/thinkpad-t440-w7sp1pro-chs) | Archive.org | 
+| T440/T440s | Windows 8 Pro x64 | English/French/German/Italian/Dutch | CD/DVD Image | 0EW376 | [Download](https://archive.org/details/0EW376) | Archive.org | 
+| T440/T440s | Windows 8.1 Pro x64 | German | CD/DVD Image | 0FT829 | [Download](https://archive.org/details/0FT829) | Archive.org | 
+| T440p | Windows 8 Pro x64 | German | CD/DVD Image | 0EV646 | [Download](https://archive.org/details/0EV646) | Archive.org | 
 
 ### Lenovo ThinkPad T450/T450s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
