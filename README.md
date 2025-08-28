@@ -749,7 +749,18 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad T430/T430s/T430u/T530/W530/X230/X230Tablet/X230i/X230iTablet
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-coming soon
+| T430/T430s/T530/W530/X230 | Windows 8 Pro x64 | English | CD/DVD Image | 04Y8945 | [Download](https://archive.org/details/T430Win8x64D3) | Archive.org | 
+| T430/T430s/T530/W530/X230 | Windows 8 Pro x64 | German | CD/DVD Image | 04Y8931 | [Download](https://archive.org/details/04Y8931) | Archive.org | 
+| T430/T430s/T530/W530/X230/X230 Tablet/X230i/X230i Tablet | Windows 8 Pro x64 | English | CD/DVD Image | 0HP974 | [Download](https://archive.org/details/0HP974) | Archive.org | 
+| T430/T430s/T530/W530/X230/X230 Tablet/X230i/X230i Tablet | Windows 8 Pro x64 | German | CD/DVD Image | 0EU569 | [Download](https://archive.org/details/0EU569) | Archive.org | 
+| T430/T430s/T530/W530/X230/X230 Tablet/X230i/X230i Tablet | Windows 8 Pro x64 | Russian | CD/DVD Image | 04T7038 | [Download](https://archive.org/details/recovery-dvd-for-lenovo-x230) | Archive.org | 
+| T430/T530/W530| Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EV806 | [Download](https://archive.org/details/0EV806) | Archive.org | 
+| T430/T530/W530| Windows 7 Professional x64 SP1 | Polish | USB Recovery Drive | | [Download](https://archive.org/details/think-pad-t-430-w-7-pl-usb-recovery) | Archive.org | Create Recovery Media
+| T430s| Windows 7 Professional x64 SP1 | English | CD/DVD Image |  | [Download](https://archive.org/details/t430s-recovery-english) | Archive.org | Create Recovery Media
+| T430u| Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T5366 | [Download](https://archive.org/details/04T5366) | Archive.org | 
+| X230/X230i/X230 Tablet/X230i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EV729 | [Download](https://archive.org/details/0EV729) | Archive.org | 
+
+
 
 ### Lenovo ThinkPad T431s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -939,11 +950,6 @@ coming soon
 | X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Professional | English | CD/DVD Image | | [Download](https://archive.org/details/TPX220iTWIN7PROEN) | Archive.org | Create Recovery Media ISOs
 | X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Home Premium x64 SP1 | German | CD/DVD Image | 04T3583 | [Download](https://archive.org/details/04T3583) | Archive.org | 
 | X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T2230 | [Download](https://archive.org/details/04T2230) | Archive.org | 
-
-### Lenovo ThinkPad X230/X230i/X230 Tablet/X230i Tablet
-| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
-|--|--|--|--|--|--|--|--|
-| X230/X230i/X230 Tablet/X230i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EV729 | [Download](https://archive.org/details/0EV729) | Archive.org | 
 
 ### Lenovo ThinkPad X240s/X240
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
