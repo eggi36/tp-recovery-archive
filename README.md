@@ -132,7 +132,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 600E | Windows 98 First Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/28-l-2689-28-l-2690) | Archive.org |
 | 600E | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/28-l-2689-28-l-2690) | Archive.org |
 | 600E | Windows 98 First Edition | English UK | CD/DVD Image | | [Download](https://archive.org/details/28-l-3310) | Archive.org |
-| 600E | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/00N6291) | Archive.org |
+| 600E | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/00N6291) | Archive.org | 1999-06
+| 600E | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/28L2670) | Archive.org | 1998-10
 | 600X | Windows 95 & Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/IBMProductRecoveryThinkpad600X) | Archive.org | Windows 95 disc is missing - [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) for complete set |
 | 600X | Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
 | 600X | Windows NT 4.0 Workstation | English US | CD/DVD Image | | [Download](https://archive.org/details/10K0229) | Archive.org |
