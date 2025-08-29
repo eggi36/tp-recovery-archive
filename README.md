@@ -111,8 +111,10 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 570 | Windows NT 4.0 Workstation | German | CD/DVD Image | | [Download](https://archive.org/details/00N4477-00N4478) | Archive.org | 
 | 570 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/00N4477-00N4478) | Archive.org | 
 | 570 | Windows 95 & Windows 98 First Edition | German | CD/DVD Image | 00N4534 | [Download](https://archive.org/details/00N4534) | Archive.org |
+| 570E | Windows 95 & Windows 98 Second Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TP570EWIN9XGR) | Archive.org |
 | 570E | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
 | 570E | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | 
+| 570E | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TP570EWIN9XGR) | Archive.org |
 
 ### IBM ThinkPad 600
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
