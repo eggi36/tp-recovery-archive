@@ -223,8 +223,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | A21m | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/a-21m-recovery)| Archive.org | |
 | A21m | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/a-21m-recovery)| Archive.org | |
 | A21m | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/A21mW2K)| Archive.org | NT 4.0 disc is missing - [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) for complete set |
-| A21p | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 | A21p | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | NT 4.0 disc is missing |
+| A21p | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+| A21p | Windows NT 4.0 Workstation & Windows 2000 Professional | German | CD/DVD Image | | [Download](https://archive.org/details/19K9926-19K9938)| Archive.org | Windows 2000 disc is missing |
+| A21p | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/19K9926-19K9938)| Archive.org | |
+
 
 ### IBM ThinkPad A22
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
