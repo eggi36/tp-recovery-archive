@@ -319,7 +319,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad T20
 | Model | OS | Language | Type | Set-FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| T20 | Windows 95 & Windows 98 Second Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPT20DERestore) | Archive.org |  |
+| T20 | Windows 95 & Windows 98 Second Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPT20DERestore) | Archive.org | 2000-06  |
+| T20 | Windows 95 & Windows 98 Second Edition | German | CD/DVD Image | 19K3686 | [Download](https://archive.org/details/19K3686) | Archive.org | 2000-05  |
 | T20 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/TPT20DERestore) | Archive.org | For WIN9X |
 | T20 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/19K3826) | Archive.org | For NT/2K |
 | T20 | Windows 98 Second Edition | Italian | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-t-20-mt-2647-recovery-cd-rom-italian-disk-1) | Archive.org | custom OEM version for Banca Intesa |
