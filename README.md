@@ -176,8 +176,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 770 | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-770-product-recovery-cd-rom-egusfa0) | Archive.org | Mwave Models
 | 770 | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-770-recovery-cd-rom-ejusfa0) or [Download](https://archive.org/details/ibm-think-pad-770-recovery-ejusfa-0) | Archive.org | 
 | 770 | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/10L8564) | Archive.org |
-| 770E/ED | Windows 95 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
-| 770E/ED | Software Selections CD | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| 770E/ED | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/10L9580-24L7905) | Archive.org |
+| 770E/ED | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/10L9580-24L7905) | Archive.org |
 | 770E/ED | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/think-pad-770-e-770-ed-recovery-cd-rom-german) | Archive.org |
 | 770E/ED | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/think-pad-770-e-770-ed-customization-cd) | Archive.org |
 | 770X | Windows 98 First Edition | German | CD/DVD Image | | [Download](https://archive.org/details/28L2872) | Archive.org |
