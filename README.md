@@ -243,7 +243,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | A30/A30p | Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-a30-a30p-recovery-disk-w2k-en)| Archive.org | |
-| A30/A30p | Windows XP Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
+| A30/A30p | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/14P9016-32P5845)| Archive.org | |
 
 ### IBM ThinkPad A31
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
