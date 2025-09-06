@@ -329,8 +329,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T20 | Software Selections CD | German | CD/DVD Image | | [Download](https://archive.org/details/19K3826) | Archive.org | For NT/2K |
 | T20 | Windows 98 Second Edition | Italian | CD/DVD Image | | [Download](https://archive.org/details/ibm-thinkpad-t-20-mt-2647-recovery-cd-rom-italian-disk-1) | Archive.org | custom OEM version for Banca Intesa |
 | T20 | Windows NT 4.0 Workstation & Windows 2000 Professional | German | CD/DVD Image | 19K3826 | [Download](https://archive.org/details/19K3826) | Archive.org |  |
-| T20 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-t-20-recovery) | Archive.org | NT 4.0 disc is missing |
-| T20 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| T20 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/TPT20WINNT2KEN) | Archive.org | |
 | T20 | Windows 95 & Windows 98 Second Edition | English US | CD/DVD Image | | [Disc 1 (Win98) Download](https://archive.org/details/think-pad-t-20-win-98-installer) Disc 2 (Win95) [Download](https://archive.org/details/think-pad-t-20-win-95-installer) or [Download](https://archive.org/details/ibm-t-20-recovery) | Archive.org |  |
 
 ### IBM ThinkPad T21
