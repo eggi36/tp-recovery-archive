@@ -348,7 +348,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | T22 | Windows 98 Second Edition | French | CD/DVD Image | | [Download](https://archive.org/details/ibm-restore-t22-fr) | Archive.org | custom made from HDD partition |
 | T22 | Windows 98 Second Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/23P9249) | Archive.org | |
-| T22 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | 23P9175 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| T22 | Windows NT 4.0 Workstation & Windows 2000 Professional | English US | CD/DVD Image | 23P9175 | [Download](https://archive.org/details/23P9175) | Archive.org | |
 | T22 | Linux | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 
 ### IBM ThinkPad T23
