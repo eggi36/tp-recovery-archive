@@ -355,7 +355,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | T23 | Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/32P6641) | Archive.org | dated earlier (2001-12) but is actually more recent in terms of installed software in comparison to the 2002-01 release
-| T23 | Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/IBMThinkPadT23Discs) | Archive.org | later version (2002-01)
+| T23 | Windows 2000 Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/IBMThinkPadT23Discs) | Archive.org | 2002-01
 | T23 | Windows XP Professional | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | earlier version (2001-10) |
 | T23 | Windows XP Professional | English US | CD/DVD Image | 32P6722 | [Download](https://archive.org/details/thinkpad-t-23-win-xp-restore) | Archive.org | later version (2002-03) |
 | T23 | Windows XP Professional | German | CD/DVD Image | 32P6729 | [Download](https://archive.org/details/32P6729) | Archive.org |
