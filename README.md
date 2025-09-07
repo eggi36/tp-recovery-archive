@@ -964,7 +964,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad X220/X220i/X220 Tablet/X220i Tablet
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| ~~X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Professional | English | CD/DVD Image | | [Download](https://archive.org/details/TPX220iTWIN7PROEN) | Archive.org~~ | Removed. Was defective
+| ~~X220/X220i/X220 Tablet/X220i Tablet~~ | ~~Windows 7 Professional~~ | ~~English~~ | ~~CD/DVD Image~~ | | ~~[Download](https://archive.org/details/TPX220iTWIN7PROEN)~~ | ~~Archive.org~~ | Removed. Was defective
 | X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Home Premium x64 SP1 | German | CD/DVD Image | 04T3583 | [Download](https://archive.org/details/04T3583) | Archive.org | 
 | X220/X220i/X220 Tablet/X220i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T2230 | [Download](https://archive.org/details/04T2230) | Archive.org | 
 
