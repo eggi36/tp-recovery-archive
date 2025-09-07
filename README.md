@@ -864,6 +864,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | X1 Carbon Gen1 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 00EV069 | [Download](https://archive.org/details/00EV069) | Archive.org | 
 | X1 Carbon Gen1 | Windows 8 Pro x64 | German | CD/DVD Image | 0EU985 | [Download](https://archive.org/details/0EU985) | Archive.org | 
 
+### Lenovo ThinkPad X1 Carbon Gen2
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| X1 Carbon Gen2 | Windows 8.1 Pro x64 | German | CD/DVD Image | 0FT719 | [Download](https://archive.org/details/0FT719) | Archive.org | 
+
 ### Lenovo ThinkPad X1 Carbon Gen3
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
