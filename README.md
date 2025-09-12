@@ -787,6 +787,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T440/T440s | Windows 8 Pro x64 | English/French/German/Italian/Dutch | CD/DVD Image | 0EW376 | [Download](https://archive.org/details/0EW376) | Archive.org | 
 | T440/T440s | Windows 8.1 Pro x64 | German | CD/DVD Image | 0FT829 | [Download](https://archive.org/details/0FT829) | Archive.org | 
 | T440p | Windows 8 Pro x64 | German | CD/DVD Image | 0EV646 | [Download](https://archive.org/details/0EV646) | Archive.org | 
+| T440p | Windows 8 Pro x64 | English/French/German/Italian/Dutch | CD/DVD Image | 0EV661 | [Download](https://archive.org/details/0EV661) | Archive.org | 
+
 
 ### Lenovo ThinkPad T450/T450s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
