@@ -973,6 +973,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad X240s/X240
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+| X240s/X240 | Windows 7 Professional x64 SP1 | unknown | CD/DVD Image | | [Download](https://archive.org/details/lenovo-thinkpad-x240-) | Archive.org | Create Recovery Media ISOs 
 | X240s/X240 | Windows 8 Pro x64 | English | CD/DVD Image | 0EW177 | [Download](https://archive.org/details/0EW177) | Archive.org | 
 | X240s/X240 | Windows 8.1 Pro x64 | German | CD/DVD Image | 0HR573 | [Download](https://archive.org/details/0HR573) | Archive.org | 
 
