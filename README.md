@@ -425,6 +425,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T61/R61 | Windows XP Professional | Chinese Simplified | CD/DVD Image | | [Download](https://archive.org/details/T61WinXPProSp2RecoveryDisks-CN) | Archive.org | Create Recovery Media ISOs
 | T61/R61 | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/T61WinXPProSp2RecoveryDisks) | Archive.org | Create Recovery Media ISOs
 | T61/R61 | Windows Vista Business x86 | English US | CD/DVD Image | 43T8032 | [Download](https://archive.org/details/T61WinVistaBusinessRTMx86RecoveryDisks) | Archive.org | 
+| T61/R61 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | 44Y4175 | [Download](https://archive.org/details/LTPT61RISO) | Archive.org  | Download link in description (Google Drive)
 | T61/R61 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | Create Recovery Media ISOs
 | T61/R61 | Windows XP Professional | German | CD/DVD Image | 43T8162 | [Download](https://archive.org/details/43T8162) | Archive.org | 
 | T61/R61 | Windows Vista Business x86 | German | CD/DVD Image | 43T8035 | [Download](https://archive.org/details/43T8035) | Archive.org | 
