@@ -292,7 +292,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad R31
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| R31 | Windows XP Professional | English US | CD/DVD Image | 01R5347 | [Download](https://archive.org/details/ibm-r-31-disk-1) [Download](https://archive.org/details/recovery-r-31) | Archive.org | |
+| R31 | Windows XP Professional | English US | CD/DVD Image | 01R5347 | [Download](https://archive.org/details/ibm-r-31-disk-1) or [Download](https://archive.org/details/recovery-r-31) | Archive.org | |
 | R31 | Windows XP Home Edition | English US | CD/DVD Image | 01R5348 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository | |
 
 ### IBM ThinkPad R32
