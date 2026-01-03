@@ -675,6 +675,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | P51/P71 | Windows 10 Pro x64 (1909) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30W06214 | [Download](https://archive.org/details/5R30W06214) | Archive.org | 
 
+### Lenovo ThinkPad P15/T15g/P17 Gen 1
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| P15/T15g/P17 Gen 1 | Windows 10 Pro x64 (2004) | English | USB Recovery Drive | 5R31B23715 | [Download](https://archive.org/details/5R31B23715) | Archive.org | 
+
 ### Lenovo ThinkPad S1 Yoga 12
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
@@ -771,8 +776,6 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T430s| Windows 7 Professional x64 SP1 | English | CD/DVD Image |  | [Download](https://archive.org/details/t430s-recovery-english) | Archive.org | Create Recovery Media
 | T430u| Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T5366 | [Download](https://archive.org/details/04T5366) | Archive.org | 
 | X230/X230i/X230 Tablet/X230i Tablet | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 0EV729 | [Download](https://archive.org/details/0EV729) | Archive.org | 
-
-
 
 ### Lenovo ThinkPad T431s
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
