@@ -982,6 +982,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | X250 | Windows 8.1 Pro x64 | English | CD/DVD Image | 0LD082 | [Download](https://archive.org/details/0LD082) | Archive.org | 
 | X250 | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 01FY979 | [Download](https://archive.org/details/01FY979) | Archive.org | 
+| X250 | Windows 8.1 Pro x64 | Japanese | USB Recovery Drive | 01FY968 | [Download](https://archive.org/details/USB_X250_20CL_W8.1_JA) | Archive.org | 
 | X250 | Windows 10 Pro x64 (1607) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HU940 | [Download](https://archive.org/details/01HU940) | Archive.org | 
 | X250 | Windows 7 Professional x64 SP1 | Korean | USB Recovery Drive | | [Download](https://archive.org/details/tp-x250-w7sp1-korean) | Archive.org | Create Recovery Media - Norton Ghost File
 
