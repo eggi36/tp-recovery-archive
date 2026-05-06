@@ -467,6 +467,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | X30 | Windows 2000 Professional | English US | CD/DVD Image | 01R6193 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
+| X30 | Windows XP Professional | Chinese Simplified | CD/DVD Image | 67P4611 | [Download](https://archive.org/details/thinkpad-x30-recovery-disc-xp-sp0-chs) | Archive.org | 
 | X30 | Windows XP Professional | English US | CD/DVD Image | 01R6196 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 
 ### IBM ThinkPad X31
