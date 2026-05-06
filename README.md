@@ -544,7 +544,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad Z61
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
-| Z61m/Z61p/Z61t | Windows XP Home | English US | CD/DVD Image | 43T5929 | [Download](https://archive.org/details/Z61WinXPHomeRecoveryDisks) | Archive.org |
+| Z61m/Z61p/Z61t | Windows XP Home Edition| English US | CD/DVD Image | 43T5929 | [Download](https://archive.org/details/Z61WinXPHomeRecoveryDisks) | Archive.org |
 | Z61m/Z61p/Z61t | Windows XP Professional | English US | CD/DVD Image | 43T5713 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
 | Z61m/Z61p/Z61t | Windows XP Professional | German | CD/DVD Image | 42J8657 | [Download](https://archive.org/details/42J8657) | Archive.org |
 | Z61m/Z61p/Z61t | Windows Vista Business x86 | English US | CD/DVD Image | 43T7354 | [Ask here](https://forum.thinkpads.com/viewtopic.php?t=128170) | Recovery Set Repository |
