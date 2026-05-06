@@ -235,6 +235,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad A22
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+| A22e | Windows 98 Second Edition & Windows NT 4.0 Workstation | English US | HDD Image | | [Download](https://archive.org/details/ibm-munich-1)| Archive.org | | Clonezilla Image of an IBM internal protoype model
 | A22m | Windows 98 Second Edition | English US | HDD Image | | [Download](https://archive.org/details/TPA22MWIN98SEUSSP)| Archive.org | |
 | A22m | Windows Millennium Edition | German | HDD Image | | [Download](https://archive.org/details/TPA22MWINMEGRSP)| Archive.org | custom OEM version for Erste Bank |
 | A22m | Windows NT 4.0 Workstation & Windows 2000 Professional | German | HDD Image | | [Download](https://archive.org/details/TPA22MWIN2KNTGRSP)| Archive.org | |
