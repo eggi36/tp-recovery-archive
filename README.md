@@ -311,6 +311,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | R40 | Windows XP Professional | English US | CD/DVD Image | 01R8517 | [Download](https://archive.org/details/01R8517) | Archive.org | |
 | R40e | Windows XP Home Edition | German | HPA Image | | [Download](https://archive.org/details/TPR40eHPADERestore) | Archive.org | |
 
+### IBM ThinkPad R50e/R51
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| R50e/R51 | Windows XP Home Edition | German | CD/DVD Image | 39K6465 | [Download](https://archive.org/details/39K6465) | Archive.org |
+
 ### IBM ThinkPad R60
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
