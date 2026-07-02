@@ -275,6 +275,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | i1200 | Windows Millennium Edition | English US | CD/DVD Image | | [Download](https://archive.org/details/ThinkPadi1200Recovery) | Archive.org | |
+| i1200 | Windows Millennium Edition | French | CD/DVD Image | | [Download](https://archive.org/details/19K9320) | Archive.org | |
 | i1200 | Software Selections CD | English US | CD/DVD Image | | [Download](https://archive.org/details/think-pad-i-1200-recovery) | Archive.org | |
 
 ### IBM ThinkPad i Series 1400
