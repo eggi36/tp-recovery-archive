@@ -750,6 +750,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | SL300/SL400/SL500 | Windows Vista Home Basic x86 SP1 | Korean | CD/DVD Image | | [Download](https://archive.org/details/THINKPAD_SL400_VISTAHBK) | Archive.org | Create Recovery Media ISOs
 | SL300/SL400/SL500 | Windows Vista Home Premium x86 SP1 | English US | CD/DVD Image | 46V2770 | [Download](https://archive.org/details/start-recovery) | Archive.org |
 | SL300/SL400/SL500 | Windows Vista Home Premium x86 SP1 | German | CD/DVD Image | 58Y2324 | [Download](https://archive.org/details/58Y2324) | Archive.org |
+| SL300/SL400/SL500 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | 46V2059 | [Download](https://archive.org/details/pxl-20260525-173823066) | Archive.org |
 | SL300/SL400/SL500 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | | [Download](https://archive.org/details/TPSLX00WVBX86US) | Archive.org | Create Recovery Media ISOs
 | SL300/SL400/SL500 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 46V0523 | [Download](https://archive.org/details/46V0523) | Archive.org |
 
