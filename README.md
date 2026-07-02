@@ -265,6 +265,12 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | G40 | Windows XP Professional | German | HPA Image | | [Download](https://archive.org/details/TPG40HPADERestore) | Archive.org | |
 | G40 | Windows XP Professional | Norwegian | HPA Image | | [Download](https://archive.org/details/TPG40HPANORestore) | Archive.org | |
 
+
+### IBM ThinkPad G41
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| G41 | Windows XP Professional | Greek | CD/DVD Image | | [Download](https://archive.org/details/ibm-g41-recovery-image-greek) | Archive.org | Create Recovery Media ISOs | 
+
 ### IBM ThinkPad i Series 1200
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
