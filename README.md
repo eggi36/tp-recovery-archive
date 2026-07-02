@@ -694,6 +694,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | P15/T15g/P17 Gen 1 | Windows 10 Pro x64 (2004) | English | USB Recovery Drive | 5R31B23715 | [Download](https://archive.org/details/5R31B23715) | Archive.org | 
 
+### Lenovo ThinkPad P16 Gen 2
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| P16 Gen 2 | Windows 11 Pro x64 (24H2) | English | USB Recovery Drive | 5R31N75313 | [Download](https://archive.org/details/5R31N75313) | Archive.org | 
+
 ### Lenovo ThinkPad S1 Yoga 12
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
