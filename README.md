@@ -528,6 +528,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | X60 Tablet | Windows XP Tablet PC Edition 2005 | German | CD/DVD Image | 43T5531 | [Download](https://archive.org/details/43T5531) | Archive.org | 
+| X60 Tablet | Windows XP Tablet PC Edition 2005 | English | CD/DVD Image | | [Download](https://archive.org/details/tpx60t-recoveryset) | Archive.org | Create Recovery Media ISOs
 
 ### IBM ThinkPad X61
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
