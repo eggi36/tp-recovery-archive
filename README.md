@@ -684,6 +684,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | P51/P71 | Windows 10 Pro x64 (1909) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30W06214 | [Download](https://archive.org/details/5R30W06214) | Archive.org | 
 
+### Lenovo ThinkPad P53/P73
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| P53/P73 | Windows 10 Pro x64 (2004) | English | USB Recovery Drive | 5R30W07113 | [Download](https://archive.org/details/5R30W07113) | Archive.org | 
+
 ### Lenovo ThinkPad P15/T15g/P17 Gen 1
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
