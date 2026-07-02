@@ -790,6 +790,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad T420/T420s/T520/W520
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+| T420 | Windows 7 Professional x64 | English | CD/DVD Image | 03W7927 | [Download](https://archive.org/details/lenovo-t420-recovery-disc-set) | Archive.org | 
 | T420 | Windows 7 Professional x64 SP1 | English | CD/DVD Image | 04T1349 | [Download](https://archive.org/details/0A407072.1) | Archive.org | 
 | T420s/T520/W520 | Windows 7 Professional x64 | English/French/German/Italian/Dutch | CD/DVD Image | 03W7844 | [Download](https://archive.org/details/03W7844) | Archive.org | 
 | T420s/T520/W520 | Windows 7 Professional x64 SP1 | German | CD/DVD Image | 04T1414 | [Download](https://archive.org/details/04T1414) | Archive.org | 
