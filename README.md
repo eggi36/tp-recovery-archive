@@ -664,6 +664,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | L420/L520 | Windows 7 Professional x64 | English | CD/DVD Image | | [Download](https://archive.org/details/L420-Recovery-DVD-EN) | Archive.org | Create Recovery Media ISOs
 | L420/L520 | Windows 7 Professional x64 | Russian | CD/DVD Image | | [Download](https://archive.org/details/Lenovo_ThinkPad_L520) | Archive.org | Create Recovery Media ISOs
 
+### Lenovo ThinkPad L430/L530
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| L430/L530 | Windows 8 Pro x64 | Japanese | CD/DVD Image | 04T5908 | [Download](https://archive.org/details/LENOVO-L430-L530-JP-WIN8-REC) | Archive.org |
+
 ### Lenovo ThinkPad L440/L540
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
