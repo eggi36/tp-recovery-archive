@@ -935,6 +935,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | X1 Carbon Gen4/X1 Yoga Gen1 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR680 | [Download](https://archive.org/details/01HR680) | Archive.org | 
+| X1 Carbon Gen4/X1 Yoga Gen1 | Windows 10 Pro x64 (1703) | Japanese | USB Recovery Drive | 01HR669 | [Download](https://archive.org/details/01HR669) | Archive.org | 
 
 ### Lenovo ThinkPad X1 Carbon Gen5
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
