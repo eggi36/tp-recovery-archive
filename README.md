@@ -622,6 +622,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | E455/E555/E450/E550/E550c/E450c | Windows 8.1 Pro x64 | English/French/German/Italian/Dutch | USB Recovery Drive | 01FX089 | [Download](https://archive.org/details/01FX089) | Archive.org | 
 | E455/E555/E450/E550/E550c/E450c | Windows 10 Pro x64 (1607) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HU596 | [Download](https://archive.org/details/01HU596) | Archive.org | 
+| E455/E555/E450/E550/E550c/E450c | Windows 10 Home x64 (1607) | Japanese | USB Recovery Drive | 01HU553 | [Download](https://archive.org/details/01HU553) | Archive.org | 
 
 ### Lenovo ThinkPad E465/E565/E460/E560/E560c
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
