@@ -686,6 +686,12 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | L460 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR265 | [Download](https://archive.org/details/01HR265) | Archive.org | 
 | L560 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR377 | [Download](https://archive.org/details/01HR377) | Archive.org | 
+| L560 | Windows 10 Pro x64 (1703) | English | USB Recovery Drive | 01HR376 | [Download](https://archive.org/details/01HR376) | Archive.org | 
+| L560 | Windows 10 Pro x64 (1703) | Japanese | USB Recovery Drive | 01HR366 | [Download](https://archive.org/details/01HR366) | Archive.org | 
+| L560 | Windows 10 Pro x64 (1703) | Chinese Simplified/English/Chinese Traditional (Hong Kong S.A.R.) | USB Recovery Drive | 01HR381 | [Download](https://archive.org/details/01HR381) | Archive.org | 
+
+
+
 
 ### Lenovo ThinkPad L470/L570
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
