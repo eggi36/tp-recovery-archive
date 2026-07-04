@@ -566,6 +566,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 
 ## Lenovo Models
 
+### Lenovo ThinkPad 10 Gen1
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 10 Gen1 | Windows 8.1 Pro x64 | Chinese Simplified | USB Recovery Drive | | [Download](https://archive.org/details/thinkpad-10-factory-recovery-usb) | Archive.org | Create Recovery Media
+
 ### Lenovo ThinkPad 10 Gen2
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
