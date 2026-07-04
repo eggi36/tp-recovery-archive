@@ -986,6 +986,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad X200/X300/X301/X200s/X200 Tablet
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+| X200 | Windows XP Professional | French | CD/DVD Image | | [Download](https://archive.org/details/lenovo-thinkpad-x200-windows-xp-sp2-recovery-dvd) | Archive.org | Create Recovery Media ISOs
 | X200 | Windows XP Professional | German | CD/DVD Image | 46V1503 | [Download](https://archive.org/details/46V1503) | Archive.org | 
 | X200 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 46V1165 | [Download](https://archive.org/details/46V1165) | Archive.org | 
 | X200 Tablet | Windows XP Professional | English US | CD/DVD Image | | [Download](https://archive.org/details/TPX200TWXPPUS) | Archive.org | Create Recovery Media ISOs 
