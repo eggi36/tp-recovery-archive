@@ -971,6 +971,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | X1 Tablet Gen2 | Windows 10 Pro x64 (1803) | English/French/German/Italian/Dutch | USB Recovery Drive | 02CC744 | [Download](https://archive.org/details/02CC744) | Archive.org | 
+| X1 Tablet Gen2 | Windows 10 Pro x64 (1803) | Japanese | USB Recovery Drive | 02CC733 | [Download](https://archive.org/details/02CC733) | Archive.org |
 
 ### Lenovo ThinkPad X1 Tablet Gen3
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
