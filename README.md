@@ -633,6 +633,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | E470/E570/E470C/E570c | Windows 10 Pro x64 (1709) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HN560 | [Download](https://archive.org/details/01HN560) | Archive.org | 
+| E470/E570/E470C/E570c | Windows 10 Home x64 (1709) | Chinese Simplified | USB Recovery Drive | 01HN593 | [Download](https://archive.org/details/01HN560) | Archive.org | 
 
 ### Lenovo ThinkPad E475/E575
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
