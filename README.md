@@ -322,6 +322,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | R50e/R51 | Windows XP Home Edition | German | CD/DVD Image | 39K6465 | [Download](https://archive.org/details/39K6465) | Archive.org |
+| R50e | Windows XP Home Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPR50eWINXPGR) | Archive.org | Create Recovery Media ISOs |
 
 ### IBM ThinkPad R60
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
@@ -391,13 +392,12 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T40 | Windows XP Professional | English US | CD/DVD Image | 01R8046 | [Download](https://archive.org/details/IBMThinkpadT4041RecoveryCDs) | Archive.org |
 | T40 | Windows XP Professional | German | CD/DVD Image | 01R8051 | [Download](https://archive.org/details/t40_recovery_german) | Archive.org |
 
-### IBM ThinkPad T41/T41p/R50/R50e/R50p
+### IBM ThinkPad T41/T41p/R50/R50p
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | T41/R50 | Windows XP Professional | Chinese Simplified | CD/DVD Image | 01R8800 | [Download](https://archive.org/details/thinkpad-t41-t41p-t60-blueex_chsrecovery) | Archive.org |
 | T41/T41p/R50/R50p | Windows XP Professional | German | CD/DVD Image | 24R7067 | [Download](https://archive.org/details/24R7067) | Archive.org |
 | T41/T41p/R50/R50p | Windows XP Professional | English US | CD/DVD Image | 24R8116 | [Download](https://archive.org/details/IBMThinkpadT4041RecoveryCDs) or [Download](https://archive.org/details/ibm2_20250809)| Archive.org |
-| R50e | Windows Home Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPR50eWINXPGR) | Archive.org | Create Recovery Media ISOs |
 
 ### IBM ThinkPad T42/T42p/R51
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
