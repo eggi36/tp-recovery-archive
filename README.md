@@ -422,6 +422,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T43/T43p (ATI Graphics) | Windows XP Professional | Finnish | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-t43-finnish) | Archive.org | Create Recovery Media ISOs
 | T43/R52 (Intel Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K8487 | [Download](https://archive.org/details/IBMThinkPadT41R52Restore) | Archive.org | 
 | T43/T43p (ATI Graphics) | Windows XP Professional | English US | CD/DVD Image | 39K9211 | [Download](https://archive.org/details/T43WinXP) or [Download](https://archive.org/details/39K92633)| Archive.org |
+| T43/R52 (Intel Graphics) | Windows XP Professional | Italian | HDD-Image |  | [Download](https://archive.org/details/ibm-service_202604) | Archive.org | Norton Ghost Image
 
 ### IBM ThinkPad T60
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
