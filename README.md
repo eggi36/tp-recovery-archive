@@ -867,6 +867,8 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T460 | Windows 7 Professional x64 SP1 | English | CD/DVD Image | 01FV077 | [Download](https://archive.org/details/lenovo-t-460-win-7-restore-disc) | Archive.org | 
 | T460 | Windows 7 Professional x64 SP1 | Korean | CD/DVD Image |  | [Download](https://archive.org/details/tp-t460-w7x64-usbkey) | Archive.org | Create Recovery Media - Norton Ghost File
 | T460 | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP308 | [Download](https://archive.org/details/01HP308) | Archive.org | 
+| T460p | Windows 7 Professional x64 SP1 | Chinese Simplified | CD/DVD Image | 00XE012 | [Download](https://archive.org/details/T460P-W7CHS) | Archive.org | 
+| T460p | Windows 7 Professional x86 SP1 | Chinese Simplified | CD/DVD Image | 00XE013 | [Download](https://archive.org/details/T460P-W7CHS) | Archive.org | 
 | T460p | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HR489 | [Download](https://archive.org/details/01HR489) | Archive.org | 
 | T460s | Windows 10 Pro x64 (1703) | English | USB Recovery Drive | 01HP087 | [Download](https://archive.org/details/01HP087) | Archive.org | 
 | T460s | Windows 10 Pro x64 (1703) | English/French/German/Italian/Dutch | USB Recovery Drive | 01HP088 | [Download](https://archive.org/details/01HP088) | Archive.org | 
