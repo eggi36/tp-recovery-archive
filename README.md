@@ -87,7 +87,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 390E | Software Selections CD | Norwegian | CD/DVD Image | | [Download](https://archive.org/details/28-l-3423) | Archive.org |
 | 390X | Windows 95 & Windows 98 Second Edition | English UK | CD/DVD Image | | [Download Disc 1](https://archive.org/details/TP390X-Win98) [Download Disc 2](https://archive.org/details/TP390X-Win95)| Archive.org |
 | 390X | Software Selections CD | English UK | CD/DVD Image | | [Download](https://archive.org/details/TP390X-SoftwareSelections) | Archive.org |
-
+| 390X | Windows 95 & Windows 98 Second Edition | Danish | CD/DVD Image | | [Download](https://archive.org/details/thinkpad-390x-mt-2626-dansk-retablerings-cd) | Archive.org |
 ### IBM ThinkPad 510
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
