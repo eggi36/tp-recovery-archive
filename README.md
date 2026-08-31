@@ -910,6 +910,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | Tablet 2 | Windows 8 Pro x86 | English/Danish/Finnish/Norwegian/Swedish | USB Recovery Drive | 0B86005 | [Download](https://archive.org/details/0B86005) | Archive.org | 
+| Tablet 2 | Windows 8 Pro x86 | French | USB Recovery Drive | | [Download](https://archive.org/details/20260825_20260825_1306) | Archive.org | Create Recovery Media ISOs
 
 ### Lenovo ThinkPad W700/W700ds
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
