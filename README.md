@@ -804,6 +804,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### Lenovo ThinkPad T410s/T410/T510/W510
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+| T410s/T410/T510/W510 | Windows 7 Professional x64 | Chinese Simplified | CD/DVD Image | 76Y2210 | [Download](https://archive.org/details/disk-2-76-y-2723) | Archive.org | 
 | T410s/T410/T510/W510 | Windows 7 Professional x64 | English | CD/DVD Image | 76Y2206 | [Download](https://archive.org/details/t-410-510-w-7-p-x-64-2-002) | Archive.org | 
 | T410s/T410/T510/W510 | Windows 7 Professional x64 | German | CD/DVD Image | 76Y2216 | [Download](https://archive.org/details/76Y2216) | Archive.org | 
 | T410s/T410/T510/W510 | Windows 7 Professional x64 SP1 | English | CD/DVD Image | 04T1589 | [Download](https://archive.org/details/ThinkPadT410Recovery) | Archive.org | 
