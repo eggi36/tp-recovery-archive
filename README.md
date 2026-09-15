@@ -173,6 +173,11 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | 760XL | Windows 95 | English US | CD/DVD Image | | [Download](https://archive.org/details/760-xl-recovery-cd-win-95) | Archive.org |
 | 760XL | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/DRGRFA0) | Archive.org |
 
+### IBM ThinkPad 765
+| Model | OS | Language | Type | FRU | Link | Location | Additional Information |
+|--|--|--|--|--|--|--|--|
+| 765D | Windows 95 | German | CD/DVD Image | | [Download](https://archive.org/details/06J0311) | Archive.org |
+
 ### IBM ThinkPad 770
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
