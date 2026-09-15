@@ -321,6 +321,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 ### IBM ThinkPad R40
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
+| R40 | Windows XP Professional | German | CD/DVD Image | 01R8522 | [Download](https://archive.org/details/01R8522) | Archive.org | |
 | R40 | Windows XP Professional | German | HPA Image | | [Download](https://archive.org/details/TPR40HPADERestore) | Archive.org | |
 | R40 | Windows XP Professional | Korean | HPA Image | | [Download](https://archive.org/details/THINKPAD-R40-KOR-XPSP1) | Archive.org | |
 | R40 | Windows XP Professional | Swedish | HPA Image | | [Download](https://archive.org/details/imgset.-001) | Archive.org | |
