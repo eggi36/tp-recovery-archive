@@ -793,10 +793,10 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | T400s/T400/W500/R400/R500 | Windows XP Professional | English US | CD/DVD Image | 58Y4731 | [Download](https://archive.org/details/58Y4731) | Archive.org | 
-| T400s | Windows XP Professional | French | CD/DVD Image | 58Y1839 | [Download](https://archive.org/details/58Y1839) | Archive.org | 
+| T400s/T400/W500/R400/R500 | Windows XP Professional | French | CD/DVD Image | 58Y1839 | [Download](https://archive.org/details/58Y1839) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows XP Professional | English US | CD/DVD Image | 46V1494 | [Download](https://archive.org/details/lenovo_windows_xp_conversion_kit) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows XP Professional | German | CD/DVD Image | 46V1476 | [Download](https://archive.org/details/46V1476) | Archive.org | 
-| T400s | Windows Vista Business x64 SP1 | English | CD/DVD Image | 58Y2073 | [Download](https://archive.org/details/thinkVantage5) | Archive.org | 
+| T400s/T400/W500/R400/R500 | Windows Vista Business x64 SP1 | English | CD/DVD Image | 58Y2073 | [Download](https://archive.org/details/thinkVantage5) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | English | CD/DVD Image | 46U9738 | [Download](https://archive.org/details/46U9738) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | English | CD/DVD Image | 46V3016 | [Download](https://archive.org/details/46V3016) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows Vista Business x86 SP1 | Finnish/Swedish | CD/DVD Image |  | [Download](https://archive.org/details/lenovo_thinkpad_r500_recovery_restore) | Archive.org | Create Recovery Media ISOs
