@@ -423,6 +423,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | Model | OS | Language | Type | FRU | Link | Location | Additional Information |
 |--|--|--|--|--|--|--|--|
 | T43/T43p (ATI Graphics) | Windows XP Professional | Chinese Simplified | CD/DVD Image | | [Download](https://archive.org/details/t43-xpsp2-recovery-chs) | Archive.org | Create Recovery Media ISOs
+| T43/T43p (ATI & Intel Graphics) | Windows XP Professional | Chinese Simplified | CD/DVD Image | 39K6666 | [Download](https://archive.org/details/ibm-thinkpad-t43-rrwithrr-bootable-7cd-sc) | Archive.org |
 | T43/R52 (Intel Graphics) | Windows XP Home Edition | German | CD/DVD Image | | [Download](https://archive.org/details/TPT43R52WINXPHOMEGR) | Archive.org | Create Recovery Media ISOs
 | T43/T43p (ATI Graphics) | Windows XP Professional | German | CD/DVD Image | 39K9214 | [Download](https://archive.org/details/39K9214) | Archive.org |
 | T43/R52 (Intel Graphics) | Windows XP Professional | German | CD/DVD Image | 39K8490 | [Download](https://archive.org/details/39K8490) | Archive.org |
