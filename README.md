@@ -1080,5 +1080,5 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 |--|--|--|--|--|--|--|--|
 | X270 | Windows 10 Pro x64 (1809) | English/French/German/Italian/Dutch | USB Recovery Drive | 5R30U16710 | [Download](https://archive.org/details/5R30U16710) | Archive.org | 
 | X270 | Windows 10 Pro x64 (1809) | English/Danish/Finnish/Norwegian/Swedish | USB Recovery Drive | 5R30U16712 | [Download](https://archive.org/details/5R30U16712) | Archive.org | 
-
+| X270 | Windows 10 Pro x64 (1809) | French | USB Recovery Drive | 5R30U16694 | [Download](https://archive.org/details/lenovo-thinkpad-x270-20hm) | Archive.org | 
 
