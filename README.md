@@ -1028,6 +1028,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | X200/X301/X200s/X200 Tablet | Windows 7 Professional x86 | English | CD/DVD Image | 58Y3888 | [Download](https://archive.org/details/58Y3888) | Archive.org | 
 | X200/X301/X200s/X200 Tablet | Windows 7 Professional x86 | Slovene | CD/DVD Image | | [Download](https://archive.org/details/lenovo-think-pad-x-301-windows-7-professional-32-bit-recovery-discs)| Archive.org | Create Recovery Media ISOs 
 | X300 | Windows XP Professional | German | CD/DVD Image | 44Y2684 | [Download](https://archive.org/details/44Y2684) | Archive.org | 
+| X300 | Windows XP Professional | Polish | CD/DVD Image | 44Y2700 | [Download Disc 1](https://archive.org/details/lenovo-rescue-and-recovery-cd-windows-xp-polish-february-2008-43r4425) [Download Disc 2](https://archive.org/details/lenovo-thinkpad-x300-product-recovery-cd-polish-february-2008-44y2700-44y2727)| Archive.org | 
 | X301 | Windows XP Professional | German | CD/DVD Image | 46V1531 | [Download](https://archive.org/details/46V1531) | Archive.org | 
 | X301 | Windows Vista Business x86 SP1 | English US | CD/DVD Image | | [Download](https://archive.org/details/TPX301WVBX86US) | Archive.org | Create Recovery Media ISOs
 | X301 | Windows Vista Business x86 SP1 | German | CD/DVD Image | 58Y1675 | [Download](https://archive.org/details/58Y1675) | Archive.org | 
