@@ -807,7 +807,7 @@ List of available IBM/Lenovo ThinkPad Recovery Media
 | T400s/T400/T500/R400/R500 | Windows Vista Ultimate x86 SP1 | English | CD/DVD Image | 46V3016 | [Download](https://archive.org/details/46V3016) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows 7 Home Premium x86 | English | CD/DVD Image | 58Y3268 | [Download](https://archive.org/details/58Y3268) | Archive.org | 
 | T400s/T400/T500/R400/R500 | Windows 7 Professional x64 | French/German/Italian/English | CD/DVD Image | 58Y3286 | [Download](https://archive.org/details/58Y3286) | Archive.org | 
-| T400s/T400/T500/R400/R500 | Windows 7 Professional x64 | German | CD/DVD Image | 76Y2794 | [Download](https://archive.org/details/76Y2794) | Archive.org | 
+| T400s/T400/T500/R400/R500 | Windows 7 Professional x64 | German | CD/DVD Image | 76Y2794 | [Download](https://archive.org/details/76Y2794) | Archive.org | 2010-04
 | T400s/T400/T500/R400/R500 | Windows 7 Professional x86 | German | CD/DVD Image | 58Y3249 | [Download](https://archive.org/details/58Y3249) | Archive.org | 2009-09
 | T400s/T400/T500/R400/R500 | Windows 7 Professional x86 | German | CD/DVD Image | 76Y2791 | [Download](https://archive.org/details/76Y2791) | Archive.org | 2010-04
 
